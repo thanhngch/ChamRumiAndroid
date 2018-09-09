@@ -64,10 +64,10 @@
     <Row android:rowEdgeFlags="bottom">
         <Key android:keyLabel="꩑꩒꩓" android:keyWidth="15%p" android:keyEdgeFlags="left" android:codes="-1"/>
         <Key android:keyLabel="꩝" android:codes="43613"/>
-        <Key android:keyLabel="🌍" android:codes="-100"/>
+        <Key android:keyLabel="⌨" android:codes="-100"/>
         <Key android:keyLabel="SPACE" android:keyWidth="30%p" android:isRepeatable="true" android:codes="32"/>
-        <Key android:keyLabel="👍" android:codes="128077"/>
         <Key android:keyLabel="꩞" android:codes="43614"/>
+        <Key android:keyLabel="RU" android:codes="-101"/>
         <Key android:keyLabel="⏎" android:keyWidth="15%p" android:keyEdgeFlags="right" android:codes="-4"/>
     </Row>
 
