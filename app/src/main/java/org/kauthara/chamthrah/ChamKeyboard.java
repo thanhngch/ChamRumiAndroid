@@ -50,7 +50,7 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
         switch (character) {
             case -100:
                 Util.selectIME(this);
-                chamLatin.reset();
+                this.reset(ic);
                 break;
             case -101:
                 if (isLatin) {
@@ -59,7 +59,7 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
                     kv.setKeyboard(keyboardLatin);
                 }
                 isLatin = !isLatin;
-                chamLatin.reset();
+                this.reset(ic);
                 break;
             case -103:
                 sendNextString(ic);
@@ -76,7 +76,7 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
                 break;
             case Keyboard.KEYCODE_DONE:
                 handleActionDone();
-                chamLatin.reset();
+                this.reset(ic);
                 break;
             case Keyboard.KEYCODE_SHIFT:
                 if (isCaps) {
@@ -89,7 +89,7 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
                     kv.setKeyboard(keyboardNumber);
                 }
                 isCaps = !isCaps;
-                chamLatin.reset();
+                this.reset(ic);
                 break;
             default:
                 if (isLatin) {
@@ -109,6 +109,7 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
             }
             icCommitInt(ic, character);
             chamLatin.reset();
+            this.indexInList = 0;
         } else {
             chamLatin.addKey(new String(Character.toChars(character)));
             String textConvert = chamLatin.convert(indexInList);
@@ -119,7 +120,6 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
     private void sendLatinDelete(InputConnection ic) {
         if (chamLatin.getWord().length() > 0) {
             chamLatin.delete();
-            Log.e("WORD:" + chamLatin.getWord(), "___DEBUG___");
             String textConvert = chamLatin.convert(indexInList);
             ic.setComposingText(textConvert, 1);
         } else {
@@ -164,7 +164,7 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
         EditorInfo curEditor = getCurrentInputEditorInfo();
         switch (curEditor.imeOptions & EditorInfo.IME_MASK_ACTION) {
             case EditorInfo.IME_ACTION_DONE:
-//                getCurrentInputConnection().performEditorAction(EditorInfo.IME_ACTION_DONE);
+                // getCurrentInputConnection().performEditorAction(EditorInfo.IME_ACTION_DONE);
                 // fix for messager, not work
                 getCurrentInputConnection().sendKeyEvent(
                         new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
@@ -197,6 +197,12 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
                         new KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_ENTER));
                 break;
         }
+    }
+
+    public void reset(InputConnection ic) {
+        sendEnd(ic);
+        indexInList = 0;
+        chamLatin.reset();
     }
 
     public void pickSuggestionManually(int index) {

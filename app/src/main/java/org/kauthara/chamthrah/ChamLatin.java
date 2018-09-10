@@ -69,7 +69,7 @@ public class ChamLatin {
         if (a.length() >= 3) {
             switch (a.substring(0, 3)) {
                 case "paa":
-                    return new S("\uAA1B\uAA29\uAA00", 2);
+                    return new S("\uAA1B\uAA00", 2);
             }
         }
         if (a.length() >= 2) {
@@ -107,7 +107,7 @@ public class ChamLatin {
                 case "pa":
                     return new S("\uAA1A", 1, "Pa");
                 case "Pa":
-                    return new S("\uAA1B\uAA29", 1);
+                    return new S("\uAA1B", 1);
             }
         }
         if (a.length() >= 1) {
@@ -131,7 +131,7 @@ public class ChamLatin {
                 case "p":
                     return new S("\uAA1A", 1, "P");
                 case "P":
-                    return new S("\uAA1B\uAA29", 1);
+                    return new S("\uAA1B", 1);
                 case "b":
                     return new S("\uAA1D", 1);
                 case "m":

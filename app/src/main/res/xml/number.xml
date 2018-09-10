@@ -7,86 +7,74 @@
     android:keyHeight="40dp">
 
     <Row>
-        <Key android:keyLabel="꩑"
-            android:keyEdgeFlags="left"
-            android:codes="43601"/>
-        <Key android:keyLabel="꩒"
-            android:codes="43602"/>
-        <Key android:keyLabel="꩓"
-            android:codes="43603"/>
-        <Key android:keyLabel="꩔"
-            android:codes="43604"/>
-        <Key android:keyLabel="꩕"
-            android:codes="43605"/>
-        <Key android:keyLabel="꩖"
-            android:codes="43606"/>
-        <Key android:keyLabel="꩗"
-            android:codes="43607"/>
-        <Key android:keyLabel="꩘"
-            android:codes="43608"/>
-        <Key android:keyLabel="꩙"
-            android:codes="43609"/>
-        <Key android:keyLabel="꩐"
-            android:keyEdgeFlags="right"
-            android:codes="43600"/>
+        <Key android:keyLabel="\uaa51" android:keyEdgeFlags="left" android:codes="43601"/>
+        <Key android:keyLabel="\uaa52" android:codes="43602"/>
+        <Key android:keyLabel="\uaa53" android:codes="43603"/>
+        <Key android:keyLabel="\uaa54" android:codes="43604"/>
+        <Key android:keyLabel="\uaa55" android:codes="43605"/>
+        <Key android:keyLabel="\uaa56" android:codes="43606"/>
+        <Key android:keyLabel="\uaa57" android:codes="43607"/>
+        <Key android:keyLabel="\uaa58" android:codes="43608"/>
+        <Key android:keyLabel="\uaa59" android:codes="43609"/>
+        <Key android:keyLabel="\uaa50" android:keyEdgeFlags="right" android:codes="43600"/>
     </Row>
     <Row>
-        <Key android:keyLabel="ꩀ" android:keyWidth="14.2857%p" android:codes="43584"/>
-        <!--<Key android:keyLabel="ꩁ" android:codes="43585"/>-->
-        <Key android:keyLabel="ꩂ" android:keyWidth="14.2857%p" android:codes="43586"/>
-        <Key android:keyLabel="ꩄ" android:keyWidth="14.2857%p" android:codes="43588"/>
-        <Key android:keyLabel="ꩅ" android:keyWidth="14.2857%p" android:codes="43589"/>
-        <Key android:keyLabel="ꩆ" android:keyWidth="14.2857%p" android:codes="43590"/>
-        <Key android:keyLabel="ꩇ" android:keyWidth="14.2857%p" android:codes="43591"/>
-        <Key android:keyLabel="ꩈ" android:keyWidth="14.2858%p" android:codes="43592"/>
+        <Key android:keyLabel="\uaa40" android:keyWidth="14.2857%p" android:codes="43584"/>
+        <!--<Key android:keyLabel="\uaa41" android:codes="43585"/>-->
+        <Key android:keyLabel="\uaa42" android:keyWidth="14.2857%p" android:codes="43586"/>
+        <Key android:keyLabel="\uaa44" android:keyWidth="14.2857%p" android:codes="43588"/>
+        <Key android:keyLabel="\uaa45" android:keyWidth="14.2857%p" android:codes="43589"/>
+        <Key android:keyLabel="\uaa46" android:keyWidth="14.2857%p" android:codes="43590"/>
+        <Key android:keyLabel="\uaa47" android:keyWidth="14.2857%p" android:codes="43591"/>
+        <Key android:keyLabel="\uaa48" android:keyWidth="14.2858%p" android:codes="43592"/>
     </Row>
     <Row>
-        <Key android:keyLabel="ꩉ" android:keyWidth="14.2857%p" android:codes="43593"/>
-        <Key android:keyLabel="ꩊ" android:keyWidth="14.2857%p" android:codes="43594"/>
-        <Key android:keyLabel="ꨥ" android:keyWidth="14.2857%p" android:codes="43557"/>
-        <Key android:keyLabel="ꩋ" android:keyWidth="14.2857%p" android:codes="43595"/>
-        <Key android:keyLabel="ꩃ" android:keyWidth="14.2857%p" android:codes="43587"/>
-        <Key android:keyLabel="ꩌ" android:keyWidth="14.2857%p" android:codes="43596"/>
-        <Key android:keyLabel="ꩍ" android:keyWidth="14.2858%p" android:codes="43597"/>
+        <Key android:keyLabel="\uaa49" android:keyWidth="14.2857%p" android:codes="43593"/>
+        <Key android:keyLabel="\uaa4a" android:keyWidth="14.2857%p" android:codes="43594"/>
+        <Key android:keyLabel="\uaa25" android:keyWidth="14.2857%p" android:codes="43557"/>
+        <Key android:keyLabel="\uaa4b" android:keyWidth="14.2857%p" android:codes="43595"/>
+        <Key android:keyLabel="\uaa43" android:keyWidth="14.2857%p" android:codes="43587"/>
+        <Key android:keyLabel="\uaa4c" android:keyWidth="14.2857%p" android:codes="43596"/>
+        <Key android:keyLabel="\uaa4d" android:keyWidth="14.2858%p" android:codes="43597"/>
     </Row>
     <Row>
-        <Key android:keyLabel="ꨩ" android:keyWidth="14.2857%p" android:codes="43561"/>
-        <Key android:keyLabel="ꨪ" android:keyWidth="14.2857%p" android:codes="43562"/>
-        <Key android:keyLabel="ꨫ" android:keyWidth="14.2857%p" android:codes="43563"/>
-        <Key android:keyLabel="ꨬ" android:keyWidth="14.2857%p" android:codes="43564"/>
-        <Key android:keyLabel="ꨮ" android:keyWidth="14.2857%p" android:codes="43566"/>
-        <Key android:keyLabel="ꨱ" android:keyWidth="14.2857%p" android:codes="43569"/>
-        <Key android:keyLabel="￮" android:keyWidth="14.2858%p" android:codes="65518"/>
+        <Key android:keyLabel="\uaa29" android:keyWidth="14.2857%p" android:codes="43561"/>
+        <Key android:keyLabel="\uaa2a" android:keyWidth="14.2857%p" android:codes="43562"/>
+        <Key android:keyLabel="\uaa2b" android:keyWidth="14.2857%p" android:codes="43563"/>
+        <Key android:keyLabel="\uaa2c" android:keyWidth="14.2857%p" android:codes="43564"/>
+        <Key android:keyLabel="\uaa2e" android:keyWidth="14.2857%p" android:codes="43566"/>
+        <Key android:keyLabel="\uaa31" android:keyWidth="14.2857%p" android:codes="43569"/>
+        <Key android:keyLabel="\uffee" android:keyWidth="14.2858%p" android:codes="65518"/>
     </Row>
 
     <Row>
-        <Key android:keyLabel="ꨯ" android:keyWidth="12.5%p" android:codes="43567"/>
-        <Key android:keyLabel="ꨰ" android:keyWidth="12.5%p" android:codes="43568"/>
-        <Key android:keyLabel="ꨭ" android:keyWidth="12.5%p" android:codes="43565"/>
-        <Key android:keyLabel="ꨲ" android:keyWidth="12.5%p" android:codes="43570"/>
-        <Key android:keyLabel="ꨶ" android:keyWidth="12.5%p" android:codes="43574"/>
-        <Key android:keyLabel="ꨳ" android:keyWidth="12.5%p" android:codes="43571"/>
-        <Key android:keyLabel="ꨵ" android:keyWidth="12.5%p" android:codes="43573"/>
-        <Key android:keyLabel="ꨴ" android:keyWidth="12.5%p" android:codes="43572"/>
+        <Key android:keyLabel="\uaa2f" android:keyWidth="12.5%p" android:codes="43567"/>
+        <Key android:keyLabel="\uaa30" android:keyWidth="12.5%p" android:codes="43568"/>
+        <Key android:keyLabel="\uaa2d" android:keyWidth="12.5%p" android:codes="43565"/>
+        <Key android:keyLabel="\uaa32" android:keyWidth="12.5%p" android:codes="43570"/>
+        <Key android:keyLabel="\uaa36" android:keyWidth="12.5%p" android:codes="43574"/>
+        <Key android:keyLabel="\uaa33" android:keyWidth="12.5%p" android:codes="43571"/>
+        <Key android:keyLabel="\uaa35" android:keyWidth="12.5%p" android:codes="43573"/>
+        <Key android:keyLabel="\uaa34" android:keyWidth="12.5%p" android:codes="43572"/>
     </Row>
     <Row>
-        <Key android:keyLabel="꩜" android:keyWidth="12.5%p" android:keyEdgeFlags="left" android:codes="43612"/>
-        <Key android:keyLabel="꩝" android:keyWidth="12.5%p" android:codes="43613"/>
-        <Key android:keyLabel="꩞" android:keyWidth="12.5%p" android:codes="43614"/>
-        <Key android:keyLabel="꩟" android:keyWidth="12.5%p" android:codes="43615"/>
+        <Key android:keyLabel="\uaa5c" android:keyWidth="12.5%p" android:keyEdgeFlags="left" android:codes="43612"/>
+        <Key android:keyLabel="\uaa5d" android:keyWidth="12.5%p" android:codes="43613"/>
+        <Key android:keyLabel="\uaa5e" android:keyWidth="12.5%p" android:codes="43614"/>
+        <Key android:keyLabel="\uaa5f" android:keyWidth="12.5%p" android:codes="43615"/>
         <Key android:keyLabel=":" android:keyWidth="12.5%p" android:codes="58"/>
         <Key android:keyLabel="(" android:keyWidth="12.5%p" android:codes="40"/>
         <Key android:keyLabel=")" android:keyWidth="12.5%p" android:codes="41"/>
-        <Key android:keyLabel="⌫" android:keyWidth="12.5%p" android:keyEdgeFlags="right" android:isRepeatable="true" android:codes="-5"/>
+        <Key android:keyLabel="\u232b" android:keyWidth="12.5%p" android:keyEdgeFlags="right" android:isRepeatable="true" android:codes="-5"/>
     </Row>
     <Row android:rowEdgeFlags="bottom">
-        <Key android:keyLabel="꩑꩒꩓" android:keyWidth="15%p" android:keyEdgeFlags="left" android:codes="-1"/>
+        <Key android:keyLabel="\uaa51\uaa52\uaa53" android:keyWidth="15%p" android:keyEdgeFlags="left" android:codes="-1"/>
         <Key android:keyLabel="[" android:codes="91"/>
         <Key android:keyLabel="]" android:codes="93"/>
         <Key android:keyLabel="SPACE" android:keyWidth="30%p" android:isRepeatable="true" android:codes="32"/>
         <Key android:keyLabel="\?" android:codes="63"/>
         <Key android:keyLabel=" " android:codes="8203"/>
-        <Key android:keyLabel="⏎" android:keyWidth="15%p" android:keyEdgeFlags="right" android:codes="-4"/>
+        <Key android:keyLabel="\u23ce" android:keyWidth="15%p" android:keyEdgeFlags="right" android:codes="-4"/>
     </Row>
 
 </Keyboard>
