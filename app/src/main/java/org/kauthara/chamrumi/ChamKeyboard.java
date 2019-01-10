@@ -1,4 +1,4 @@
-package org.kauthara.chamthrah;
+package org.kauthara.chamrumi;
 
 import android.graphics.ColorMatrixColorFilter;
 import android.graphics.Paint;
@@ -102,8 +102,8 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
     }
 
     private void sendLatin(InputConnection ic, int character, int indexInList) {
-        if (character < 97 || character > 122) {
-            String convert = chamLatin.convert(indexInList);
+        if ((character < 97 || character > 122) && character != 226 && character != 45) {
+            String convert = chamLatin.convert(indexInList, this);
             if (convert != null) {
                 ic.commitText(convert, 1);
             }
@@ -112,15 +112,18 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
             this.indexInList = 0;
         } else {
             chamLatin.addKey(new String(Character.toChars(character)));
-            String textConvert = chamLatin.convert(indexInList);
+            String textConvert = chamLatin.convert(indexInList, this);
             ic.setComposingText(textConvert, 1);
         }
     }
 
     private void sendLatinDelete(InputConnection ic) {
         if (chamLatin.getWord().length() > 0) {
+            if (chamLatin.getWord().length() == 1) {
+                this.reset(ic);
+            }
             chamLatin.delete();
-            String textConvert = chamLatin.convert(indexInList);
+            String textConvert = chamLatin.convert(indexInList, this);
             ic.setComposingText(textConvert, 1);
         } else {
             simpleDelete(ic);
@@ -134,15 +137,16 @@ public class ChamKeyboard extends InputMethodService implements KeyboardView.OnK
         } else {
             indexInList = 0;
         }
-        textConvert = chamLatin.convert(indexInList);
+        textConvert = chamLatin.convert(indexInList, this);
         ic.setComposingText(textConvert, 1);
     }
 
     private void sendEnd(InputConnection ic) {
-        String convert = chamLatin.convert(indexInList);
+        String convert = chamLatin.convert(indexInList, this);
         if (convert != null) {
             ic.commitText(convert, 1);
         }
+        indexInList = 0;
         chamLatin.reset();
     }
 

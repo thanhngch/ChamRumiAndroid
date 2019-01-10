@@ -1,4 +1,4 @@
-package org.kauthara.chamthrah;
+package org.kauthara.chamrumi;
 
 import android.content.Intent;
 import android.provider.Settings;

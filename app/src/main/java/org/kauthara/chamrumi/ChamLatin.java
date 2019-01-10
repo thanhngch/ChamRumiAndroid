@@ -1,4 +1,9 @@
-package org.kauthara.chamthrah;
+package org.kauthara.chamrumi;
+
+import android.content.Context;
+import android.util.Log;
+
+import org.json.JSONArray;
 
 import java.util.ArrayList;
 
@@ -66,6 +71,9 @@ public class ChamLatin {
 
     // phu am thuong
     public S head_pat(String a) {
+        if (a.equals("po")) {
+            return new S("\uAA1B\uAA2F\uAA2E", 2);
+        }
         if (a.length() >= 3) {
             switch (a.substring(0, 3)) {
                 case "paa":
@@ -211,7 +219,12 @@ public class ChamLatin {
         if (a.length() == length_na) {
             return new Z(na, "na");
         }
-
+        if (a.equals("ing")) {
+            return new Z("\uAA01\uAA2A\uAA42", "na:in");
+        }
+        if (a.equals("eng")) {
+            return new Z("\uAA03\uAA42", "na:eng");
+        }
         if (a.equals("aia")) {
             return new Z("\uAA00\uAA33", "na:aia");
         }
@@ -232,12 +245,31 @@ public class ChamLatin {
                 && convertk(a.charAt(3) + "") != null) {
             return new Z("\uAA00\uAA33\uAA2E" + convertk(a.charAt(3) + ""), "na:aie+k");
         }
-
+        if (a.equals("ae")) {
+            return new Z("\uAA00\uAA2E", "na:ae");
+        }
         if (a.length() == 3 && a.substring(0, 2).equals("ae")
                 && convertk(a.charAt(2) + "") != null) {
             return new Z("\uAA00\uAA2E" + convertk(a.charAt(2) + ""), "na:ae+k");
         }
-
+        if (a.equals("aua")) {
+            return new Z("\uAA00\uAA36", "na:aua");
+        }
+        if (a.length() == 4 && a.substring(0, 3).equals("aua") &&
+                convertk(a.charAt(3) + "") != null) {
+            return new Z("\uAA00\uAA36" + convertk(a.charAt(3) + ""), "na:aua+k");
+        }
+        if (a.equals("aui")) {
+            return new Z("\uAA00\uAA36\uAA2A", "na:aui");
+        }
+        if (a.length() == 4 && a.substring(0, 3).equals("aui") &&
+                convertk(a.charAt(3) + "") != null) {
+            return new Z("\uAA00\uAA36\uAA2A" + convertk(a.charAt(3) + ""), "na:aui+k");
+        }
+        if (a.length() == 4 && a.substring(0, 3).equals("auo") &&
+                convertk(a.charAt(3) + "") != null) {
+            return new Z("\uAA00\uAA36\uAA2F" + convertk(a.charAt(3) + ""), "na:auo+k");
+        }
         if (a.equals("ai")) {
                 return new Z("\uAA00\uAA30", "ai");
         }
@@ -281,6 +313,8 @@ public class ChamLatin {
         switch (a) {
             case "a":
                 return new Z(pa, "pa+a");
+            case "aa":
+                return new Z(pa + "\uAA00", "pa + aa");
             case "ei":
                 return new Z(pa + "\uAA2C", "pa+ei");
             case "im":
@@ -571,11 +605,34 @@ public class ChamLatin {
         return this.word;
     }
 
-    public String convert(int indexInList) {
-        String wordReplace = this.word.replace("aa", "â");
-        wordReplace = wordReplace.replace("âa", "aa");
+    public String convert(int indexInList, Context c) {
+        String wordReplace = this.word;
+        wordReplace = wordReplace.replace("aaa", "aâ");
         wordReplace = wordReplace.replace("ee", "é");
-        wordReplace = wordReplace.replace("ée", "ee");
+        wordReplace = wordReplace.replace("nn", "N");
+        wordReplace = wordReplace.replace("mm", "M");
+        wordReplace = wordReplace.replace("pp", "P");
+        wordReplace = wordReplace.replace("ss", "S");
+        wordReplace = wordReplace.replace("aa", "â");
+        
+        try {
+            if (Util.loadJSONFromAsset(c).has(wordReplace)) {
+                try {
+                    JSONArray specialWordArr = Util.loadJSONFromAsset(c).getJSONArray(wordReplace);
+                    return specialWordArr.getString(indexInList);
+                } catch (Exception e2) {
+                    try {
+                        String specialWord = Util.loadJSONFromAsset(c).getString(wordReplace);
+                        return specialWord;
+                    } catch (Exception e) {
+
+                    }
+                }
+            }
+        } catch (Exception e) {
+            Log.e("error in load json file", "chamrumi");
+        }
+        
         ArrayList<String> convert = this.convert_total(wordReplace);
         if (convert != null && convert.get(indexInList) != null && !convert.get(indexInList).isEmpty()) {
             return convert.get(indexInList);

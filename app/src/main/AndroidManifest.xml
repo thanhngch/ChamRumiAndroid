@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.kauthara.chamthrah">
+    package="org.kauthara.chamrumi">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:windowSoftInputMode="adjustPan"
         android:theme="@style/AppTheme">
-        <activity android:name="org.kauthara.chamthrah.MainActivity">
+        <activity android:name="org.kauthara.chamrumi.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,8 +17,8 @@
             </intent-filter>
         </activity>
         <service
-            android:name="org.kauthara.chamthrah.ChamKeyboard"
-            android:label="Cham Thrah"
+            android:name="org.kauthara.chamrumi.ChamKeyboard"
+            android:label="Cham Rumi"
             android:permission="android.permission.BIND_INPUT_METHOD"
             >
             <meta-data android:name="android.view.im" android:resource="@xml/method"/>

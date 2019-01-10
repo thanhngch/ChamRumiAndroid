@@ -1,7 +1,12 @@
-package org.kauthara.chamthrah;
+package org.kauthara.chamrumi;
 
 import android.view.inputmethod.InputMethodManager;
 import 	android.content.Context;
+
+import org.json.JSONObject;
+
+import java.io.IOException;
+import java.io.InputStream;
 
 public class Util {
     public static void selectIME(Context  context) {
@@ -25,5 +30,23 @@ public class Util {
             }
         }
         return true;
+    }
+
+    public static JSONObject loadJSONFromAsset(Context c) {
+        String jsonString = null;
+        JSONObject json;
+        try {
+            InputStream is = c.getAssets().open("special_word.json");
+            int size = is.available();
+            byte[] buffer = new byte[size];
+            is.read(buffer);
+            is.close();
+            jsonString = new String(buffer, "UTF-8");
+            json = new JSONObject(jsonString);
+        } catch (Exception ex) {
+            ex.printStackTrace();
+            return null;
+        }
+        return json;
     }
 }
