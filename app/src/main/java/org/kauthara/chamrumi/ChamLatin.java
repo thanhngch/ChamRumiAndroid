@@ -4,6 +4,7 @@ import android.content.Context;
 import android.util.Log;
 
 import org.json.JSONArray;
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -616,13 +617,14 @@ public class ChamLatin {
         wordReplace = wordReplace.replace("aa", "â");
         
         try {
-            if (Util.loadJSONFromAsset(c).has(wordReplace)) {
+            JSONObject jsonObject = Util.loadJSONFromAsset(c);
+            if (jsonObject.has(this.word)) {
                 try {
-                    JSONArray specialWordArr = Util.loadJSONFromAsset(c).getJSONArray(wordReplace);
+                    JSONArray specialWordArr = jsonObject.getJSONArray(this.word);
                     return specialWordArr.getString(indexInList);
                 } catch (Exception e2) {
                     try {
-                        String specialWord = Util.loadJSONFromAsset(c).getString(wordReplace);
+                        String specialWord = jsonObject.getString(this.word);
                         return specialWord;
                     } catch (Exception e) {
 

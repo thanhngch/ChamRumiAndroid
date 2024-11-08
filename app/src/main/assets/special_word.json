@@ -1,432 +1,2841 @@
 {
-  "aua": "\uaa00\uaa36",
-  "aia":["\uaa00\uaa33","\uaa00\uaa33\uaa29"],
-  "aiang":"\uaa00\uaa30\uaa43",
-  "aiannajat":"\uaa00\uaa33\uaa46\uaa18\uaa0e\uaa45",
-  "aiaok":"\uaa00\uaa33\uaa2f\uaa31\uaa40",
-  "aiyuseh":"\uaa04\uaa22\uaa2d\uaa26\uaa2e\uaa4d",
-  "\u00e2n":"\uaa00\uaa32\uaa46",
-  "\u00e2ng":["\uaa00\uaa32\uaa43","\uaa00\uaa32\uaa42"],
-  "an\u00e2k":"\uaa00\uaa17\uaa32\uaa40",
-  "an\u00e2ng":["\uaa00\uaa17\uaa32\uaa43","\uaa00\uaa17\uaa32\uaa42"],
-  "ao":"\uaa00\uaa2f\uaa31",
-  "aoh":"\uaa00\uaa2f\uaa31\uaa4d",
-  "aok":"\uaa00\uaa2f\uaa31\uaa40",
-  "aoknya":["\uaa00\uaa2f\uaa31\uaa40\uaa11","\uaa00\uaa2f\uaa31\uaa40\uaa11\uaa29"],
-  "aol":"\uaa00\uaa2f\uaa31\uaa4a",
-  "aom":"\uaa00\uaa2f\uaa4c",
-  "aong":["\uaa00\uaa2f\uaa31\uaa43","\uaa00\uaa2f\uaa31\uaa42"],
-  "aot":"\uaa00\uaa2f\uaa31\uaa45",
-  "aowali":"\uaa00\uaa2f\uaa31\uaa25\uaa24\uaa2b",
-  "arrak":"\uaa00\uaa49\uaa23\uaa40",
-  "ating":"\uaa00\uaa13\uaa2a\uaa42",
-  "auac":["\uaa00\uaa36\uaa44"],
-  "auak":"\uaa00\uaa36\uaa40",
-  "auec":"\uaa00\uaa36\uaa2e\uaa44",
-  "auel":"\uaa00\uaa36\uaa2e\uaa4a",
-  "auer":"\uaa00\uaa36\uaa2e\uaa49",
-  "auis":"\uaa00\uaa36\uaa2a\uaa4b",
-  "auw":"\uaa00\uaa36\uaa25",
-  "awlah":"\uaa00\uaa25\uaa24\uaa4d",
-  "aluah":"\uaa00\uaa24\uaa36\uaa4d",
-  "aolah":"\uaa00\uaa2f\uaa31\uaa24\uaa4d",
-  "auen":"\uaa00\uaa36\uaa2e\uaa46",
-  "aeng":["\uaa00\uaa2e\uaa43","\uaa00\uaa2e\uaa42"],
-  "aiw":"\uaa04\uaa25",
-  "aiaw":"\uaa00\uaa33\uaa25",
-  "aiew":"\uaa00\uaa33\uaa2e\uaa25",
-  "isa":"\uaa01\uaa27\uaa29",
-  "indanuh":"\uaa01\uaa46\uaa15\uaa17\uaa2d\uaa4d",
-  "in-danuh":"\uaa01\uaa46\uaa15\uaa17\uaa2d\uaa4d",
-  "insaaulah":"\uaa01\uaa2a\uaa46\uaa27\uaa00\uaa2d\uaa24\uaa4d",
-  "insa-aulah":"\uaa01\uaa2a\uaa46\uaa27\uaa00\uaa2d\uaa24\uaa4d",
-  "ilahi":["\uaa01\uaa24\uaa28\uaa2a","\uaa01\uaa24\uaa28\uaa2b"],
-  "iw":["\uaa01\uaa25","\uaa01\uaa2a\uaa25"],
-  "u":["\uaa02","\uaa02\uaa29"],
-  "uk":"\uaa02\uaa40",
-  "uni":"\uaa02\uaa17\uaa2b",
-  "uruh":"\uaa02\uaa23\uaa2d\uaa4d",
-  "usa":"\uaa02\uaa27\uaa29",
-  "uwdhuw":"\uaa02\uaa25\uaa16\uaa2d\uaa25",
-  "uwluah":"\uaa02\uaa25\uaa24\uaa36\uaa4d",
-  "urrabhi":"\uaa02\uaa49\uaa23\uaa1e\uaa2b",
-  "\u00e9":"\uaa03",
-  "\u00e9ng":"\uaa03\uaa42",
-  "\u00e9ngkat":"\uaa03\uaa42\uaa06\uaa45",
-  "\u00e9san":["\uaa03\uaa26\uaa46","\uaa03\uaa27\uaa46"],
-  "\u00e9raik":"\uaa03\uaa23\uaa30\uaa40",
-  "\u00e9tha":["\uaa03\uaa14","\uaa03\uaa14\uaa29"],
-  "\u00e9sa":["\uaa03\uaa27","\uaa03\uaa27\uaa29"],
-  "\u00e9w":"\uaa03\uaa25",
-  "erti":"\uaa00\uaa2e\uaa49\uaa13\uaa2a",
-  "esdhuk":"\uaa00\uaa2e\uaa4b\uaa16\uaa2d\uaa40",
-  "ba\u00e2k":"\uaa1d\uaa00\uaa32\uaa40",
-  "ba-\u00e2k":"\uaa1d\uaa00\uaa32\uaa40",
-  "baar":"\uaa1d\uaa00\uaa49",
-  "baraael":"\uaa1d\uaa23\uaa00\uaa2e\uaa4a",
-  "bara-ael":"\uaa1d\uaa23\uaa00\uaa2e\uaa4a",
-  "baaow":"\uaa1d\uaa00\uaa2f\uaa31\uaa25",
-  "ba-ek":"\uaa1d\uaa00\uaa2e\uaa40",
-  "bi-ar":"\uaa1d\uaa2a\uaa00\uaa49",
-  "bi-\u00e2k":"\uaa1d\uaa2a\uaa00\uaa32\uaa40",
-  "bi\u00e2k":"\uaa1d\uaa2a\uaa00\uaa32\uaa40",
-  "caaua":"\uaa0c\uaa00\uaa36",
-  "ca-aua":"\uaa0c\uaa00\uaa36",
-  "cauh":"\uaa0c\uaa02\uaa4d",
-  "ca-uh":"\uaa0c\uaa02\uaa4d",
-  "cahuh":"\uaa0c\uaa4d\uaa02\uaa4d",
-  "cah-uh":"\uaa0c\uaa4d\uaa02\uaa4d",
-  "cam-bu":"\uaa0c\uaa4c\uaa1d\uaa2d",
-  "caki\u00e9r":"\uaa0c\uaa06\uaa33\uaa2f\uaa2e\uaa49",
-  "jam-bu":"\uaa0e\uaa4c\uaa1d\uaa2d",
-  "can-dal":"\uaa0c\uaa46\uaa15\uaa4a",
-  "cambak":"\uaa0c\uaa21\uaa40",
-  "ca-mbak":"\uaa0c\uaa21\uaa40",
-  "caweiak":"\uaa0c\uaa25\uaa2c\uaa00\uaa40",
-  "cawei-ak":"\uaa0c\uaa25\uaa2c\uaa00\uaa40",
-  "cuiic":"\uaa0c\uaa36\uaa33\uaa2a\uaa44",
-  "da-a":"\uaa15\uaa00",
-  "daar":"\uaa15\uaa00\uaa49",
-  "da-ar":"\uaa15\uaa00\uaa49",
-  "dandep":"\uaa15\uaa19\uaa2e\uaa47",
-  "da-ndep":"\uaa15\uaa19\uaa2e\uaa47",
-  "dabannayah":"\uaa15\uaa1d\uaa46\uaa17\uaa22\uaa4d",
-  "dammbuak":"\uaa15\uaa4c\uaa21\uaa36\uaa40",
-  "dam-mbuak":"\uaa15\uaa4c\uaa21\uaa36\uaa40",
-  "dindana":"\uaa15\uaa2a\uaa46\uaa15\uaa17",
-  "dindan\u00e2":"\uaa15\uaa2a\uaa46\uaa15\uaa17\uaa32",
-  "din-dan\u00e2":"\uaa15\uaa2a\uaa46\uaa15\uaa17\uaa32",
-  "duissak":"\uaa15\uaa36\uaa2a\uaa4b\uaa26\uaa40",
-  "duissa":"\uaa15\uaa36\uaa2a\uaa4b\uaa26",
-  "dulkaidah":"\uaa15\uaa2d\uaa4a\uaa06\uaa01\uaa15\uaa4d",
-  "dulka-idah":"\uaa15\uaa2d\uaa4a\uaa06\uaa01\uaa15\uaa4d",
-  "dun-ya":"\uaa15\uaa2d\uaa46\uaa22",
-  "d\u00e9biya":"\uaa15\uaa2f\uaa2e\uaa1d\uaa2a\uaa22\uaa29",
-  "d\u00e9bata":"\uaa15\uaa2f\uaa2e\uaa1d\uaa13\uaa29",
-  "d\u00e9diya":"\uaa15\uaa2f\uaa2e\uaa15\uaa2a\uaa22\uaa29",
-  "gaal":"\uaa08\uaa00\uaa4a",
-  "ga-al":"\uaa08\uaa00\uaa4a",
-  "gaang":"\uaa08\uaa00\uaa43",
-  "ga-ang":"\uaa08\uaa00\uaa43",
-  "gambak":"\uaa08\uaa21\uaa40",
-  "ga-mbak":"\uaa08\uaa21\uaa40",
-  "ha-aiek":"\uaa28\uaa00\uaa33\uaa2e\uaa40",
-  "haauan":"\uaa28\uaa00\uaa36\uaa46",
-  "ha-auan":"\uaa28\uaa00\uaa36\uaa46",
-  "ha-\u00e9w":"\uaa28\uaa03\uaa25",
-  "ha-il":"\uaa28\uaa01\uaa4a",
-  "hauk":"\uaa28\uaa00\uaa2d\uaa40",
-  "ha-uk":"\uaa28\uaa00\uaa2d\uaa40",
-  "haun":"\uaa28\uaa02\uaa46",
-  "ha-un":"\uaa28\uaa02\uaa46",
-  "hu\u00e9":"\uaa28\uaa36\uaa2f\uaa2e",
-  "hadiip":"\uaa28\uaa15\uaa33\uaa2a\uaa47",
-  "hindak":"\uaa28\uaa2a\uaa46\uaa15\uaa40",
-  "hin-dak":"\uaa28\uaa2a\uaa46\uaa15\uaa40",
-  "hin-din":"\uaa28\uaa2a\uaa46\uaa15\uaa2a\uaa46",
-  "jaar":"\uaa0e\uaa00\uaa49",
-  "ja-ar":"\uaa0e\uaa00\uaa49",
-  "jalaauec":"\uaa0e\uaa24\uaa00\uaa36\uaa2e\uaa44",
-  "jala-auec":"\uaa0e\uaa24\uaa00\uaa36\uaa2e\uaa44",
-  "jamaah":"\uaa0e\uaa1f\uaa00\uaa4d",
-  "jama-ah":"\uaa0e\uaa1f\uaa00\uaa4d",
-  "jamaat":"\uaa0e\uaa1f\uaa00\uaa45",
-  "jama-at":"\uaa0e\uaa1f\uaa00\uaa45",
-  "jumat":"\uaa0e\uaa2d\uaa4c\uaa00\uaa45",
-  "jum-at":"\uaa0e\uaa2d\uaa4c\uaa00\uaa45",
-  "jumma-at":"\uaa0e\uaa2d\uaa4c\uaa1f\uaa00\uaa45",
-  "kaaek":"\uaa06\uaa00\uaa2e\uaa40",
-  "ka-aek":"\uaa06\uaa00\uaa2e\uaa40",
-  "ka-ing":"\uaa06\uaa01\uaa2a\uaa42",
-  "ka-it":"\uaa06\uaa01\uaa2a\uaa45",
-  "kan-dali":"\uaa06\uaa46\uaa15\uaa24\uaa2b",
-  "kan-diya":"\uaa06\uaa46\uaa15\uaa2a\uaa22",
-  "kananda":"\uaa06\uaa18\uaa19",
-  "kana-nda":"\uaa06\uaa18\uaa19",
-  "la-a":"\uaa24\uaa00",
-  "li-a":"\uaa24\uaa2a\uaa00",
-  "laaeh":"\uaa24\uaa00\uaa2e\uaa4d",
-  "la-aeh":"\uaa24\uaa00\uaa2e\uaa4d",
-  "laai":"\uaa24\uaa04",
-  "la-ai":"\uaa24\uaa04",
-  "laan":"\uaa24\uaa00\uaa46",
-  "la-an":"\uaa24\uaa00\uaa46",
-  "laang":"\uaa24\uaa00\uaa43",
-  "la-ang":"\uaa24\uaa00\uaa43",
-  "laaow":"\uaa24\uaa00\uaa2f\uaa31\uaa25",
-  "la-aow":"\uaa24\uaa00\uaa2f\uaa31\uaa25",
-  "liaow":"\uaa24\uaa2a\uaa00\uaa2f\uaa31\uaa25",
-  "li-aow":"\uaa24\uaa2a\uaa00\uaa2f\uaa31\uaa25",
-  "laaua":"\uaa24\uaa00\uaa36",
-  "la-aua":"\uaa24\uaa00\uaa36",
-  "li-aua":"\uaa24\uaa2a\uaa00\uaa36\uaa29",
-  "laauec":"\uaa24\uaa00\uaa36\uaa2e\uaa44",
-  "la-auec":"\uaa24\uaa00\uaa36\uaa2e\uaa44",
-  "laauey":"\uaa24\uaa00\uaa36\uaa2e\uaa48",
-  "la-auey":"\uaa24\uaa00\uaa36\uaa2e\uaa48",
-  "laauoy":"\uaa24\uaa00\uaa36\uaa2f\uaa48",
-  "la-auoy":"\uaa24\uaa00\uaa36\uaa2f\uaa48",
-  "laaung":"\uaa24\uaa00\uaa2d\uaa42",
-  "la-aung":"\uaa24\uaa00\uaa2d\uaa42",
-  "la-eh":"\uaa24\uaa00\uaa2e\uaa4d",
-  "maaia":"\uaa1f\uaa00\uaa33",
-  "ma-aia":["\uaa1f\uaa00\uaa33","\uaa1f\uaa00\uaa33\uaa29"],
-  "maaih":"\uaa1f\uaa00\uaa30\uaa4d",
-  "ma-aih":"\uaa1f\uaa00\uaa30\uaa4d",
-  "maah":"\uaa1f\uaa00\uaa4d",
-  "ma-ah":"\uaa1f\uaa00\uaa4d",
-  "maak":"\uaa1f\uaa00\uaa40",
-  "ma-ak":"\uaa1f\uaa00\uaa40",
-  "ma-\u00e2k":"\uaa1f\uaa00\uaa32\uaa40",
-  "maaom":"\uaa1f\uaa00\uaa2f\uaa31\uaa4c",
-  "ma-aom":"\uaa1f\uaa00\uaa2f\uaa31\uaa4c",
-  "maanit":"\uaa1f\uaa00\uaa17\uaa2a\uaa45",
-  "ma-anit":"\uaa1f\uaa00\uaa17\uaa2a\uaa45",
-  "ma-ih":"\uaa1f\uaa01\uaa2a\uaa4d",
-  "ma-ik":"\uaa1f\uaa01\uaa2a\uaa40",
-  "ma-in":"\uaa1f\uaa01\uaa2a\uaa46",
-  "pak":["\uaa1a\uaa40","\uaa1b\uaa29\uaa40"],
-  "po":["\uaa1b\uaa2f\uaa2e","\uaa1a\uaa2f"],
-  "paabih":"\uaa1a\uaa00\uaa1d\uaa2a\uaa4d",
-  "pa-abih":"\uaa1a\uaa00\uaa1d\uaa2a\uaa4d",
-  "paac":"\uaa1b\uaa29\uaa00\uaa44",
-  "pa-ac":"\uaa1b\uaa29\uaa00\uaa44",
-  "paadac":"\uaa1b\uaa29\uaa00\uaa15\uaa44",
-  "pa-adac":"\uaa1b\uaa29\uaa00\uaa15\uaa44",
-  "paadar":"\uaa1b\uaa29\uaa00\uaa15\uaa49",
-  "pa-adar":"\uaa1b\uaa29\uaa00\uaa15\uaa49",
-  "paaek":"\uaa1a\uaa00\uaa2e\uaa40",
-  "pa-aek":"\uaa1a\uaa00\uaa2e\uaa40",
-  "paaen":"\uaa1a\uaa00\uaa2e\uaa46",
-  "pa-aen":"\uaa1a\uaa00\uaa2e\uaa46",
-  "paaep":"\uaa1a\uaa00\uaa2e\uaa47",
-  "pa-aep":"\uaa1a\uaa00\uaa2e\uaa47",
-  "paaih":"\uaa1b\uaa29\uaa04\uaa30\uaa4d",
-  "pa-aih":"\uaa1b\uaa29\uaa04\uaa30\uaa4d",
-  "paain":"\uaa1a\uaa04\uaa30\uaa46",
-  "pa-ain":"\uaa1a\uaa04\uaa30\uaa46",
-  "paak":"\uaa1a\uaa00\uaa40",
-  "pa-ak":"\uaa1a\uaa00\uaa40",
-  "paalah":"\uaa1a\uaa00\uaa24\uaa4d",
-  "pa-alah":"\uaa1a\uaa00\uaa24\uaa4d",
-  "paamaoh":"\uaa1a\uaa00\uaa1f\uaa2f\uaa31\uaa4d",
-  "pa-amaoh":"\uaa1a\uaa00\uaa1f\uaa2f\uaa31\uaa4d",
-  "paamrak":"\uaa1a\uaa00\uaa1f\uaa34\uaa40",
-  "pa-amrak":"\uaa1a\uaa00\uaa1f\uaa34\uaa40",
-  "paamiek":"\uaa1a\uaa00\uaa1f\uaa33\uaa2e\uaa40",
-  "pa-amiek":"\uaa1a\uaa00\uaa1f\uaa33\uaa2e\uaa40",
-  "paan":"\uaa1a\uaa00\uaa46",
-  "pa-an":"\uaa1a\uaa00\uaa46",
-  "paanaih":"\uaa1a\uaa00\uaa17\uaa30\uaa4d",
-  "pa-anaih":"\uaa1a\uaa00\uaa17\uaa30\uaa4d",
-  "paang":"\uaa1a\uaa00\uaa43",
-  "pa-ang":"\uaa1a\uaa00\uaa43",
-  "paang\u00e2k":"\uaa1b\uaa29\uaa00\uaa0a\uaa32\uaa40",
-  "pa-ang\u00e2k":"\uaa1b\uaa29\uaa00\uaa0a\uaa32\uaa40",
-  "paangek":"\uaa1b\uaa29\uaa00\uaa0a\uaa2e\uaa40",
-  "pa-angek":"\uaa1b\uaa29\uaa00\uaa0a\uaa2e\uaa40",
-  "paanguei":"\uaa1b\uaa29\uaa00\uaa0a\uaa36\uaa2c",
-  "pa-anguei":"\uaa1b\uaa29\uaa00\uaa0a\uaa36\uaa2c",
-  "paanit":"\uaa1b\uaa29\uaa00\uaa17\uaa2a\uaa45",
-  "pa-anit":"\uaa1b\uaa29\uaa00\uaa17\uaa2a\uaa45",
-  "paaoc":"\uaa1a\uaa00\uaa2f\uaa44",
-  "pa-aoc":"\uaa1a\uaa00\uaa2f\uaa44",
-  "paaoh":"\uaa1b\uaa29\uaa00\uaa2f\uaa31\uaa4d",
-  "pa-aoh":"\uaa1b\uaa29\uaa00\uaa2f\uaa31\uaa4d",
-  "paaok":"\uaa1a\uaa00\uaa2f\uaa31\uaa40",
-  "pa-aok":"\uaa1a\uaa00\uaa2f\uaa31\uaa40",
-  "paaor":"\uaa1a\uaa00\uaa2f\uaa31\uaa49",
-  "pa-aor":"\uaa1a\uaa00\uaa2f\uaa31\uaa49",
-  "paarep":"\uaa1b\uaa29\uaa00\uaa23\uaa2e\uaa47",
-  "pa-arep":"\uaa1b\uaa29\uaa00\uaa23\uaa2e\uaa47",
-  "paasit":"\uaa1b\uaa29\uaa00\uaa26\uaa2a\uaa45",
-  "pa-asit":"\uaa1b\uaa29\uaa00\uaa26\uaa2a\uaa45",
-  "paatah":"\uaa1a\uaa00\uaa13\uaa4d",
-  "pa-atah":"\uaa1a\uaa00\uaa13\uaa4d",
-  "paataong":"\uaa1a\uaa00\uaa13\uaa2f\uaa31\uaa43",
-  "pa-ataong":"\uaa1a\uaa00\uaa13\uaa2f\uaa31\uaa43",
-  "paathah":"\uaa1b\uaa29\uaa00\uaa14\uaa4d",
-  "pa-athah":"\uaa1b\uaa29\uaa00\uaa14\uaa4d",
-  "paathur":"\uaa1b\uaa29\uaa00\uaa14\uaa2d\uaa49",
-  "pa-athur":"\uaa1b\uaa29\uaa00\uaa14\uaa2d\uaa49",
-  "paauen":"\uaa1a\uaa00\uaa36\uaa2e\uaa46",
-  "pa-auen":"\uaa1a\uaa00\uaa36\uaa2e\uaa46",
-  "paawait":"\uaa1a\uaa00\uaa25\uaa30\uaa45",
-  "pa-await":"\uaa1a\uaa00\uaa25\uaa30\uaa45",
-  "pa-awan":"\uaa1b\uaa29\uaa00\uaa25\uaa46",
-  "pa\u00e9ng":"\uaa1a\uaa03\uaa42",
-  "pa-\u00e9ng":"\uaa1a\uaa03\uaa42",
-  "pakaow":"\uaa1b\uaa29\uaa06\uaa2f\uaa31\uaa25",
-  "pa-kaow":"\uaa1b\uaa29\uaa06\uaa2f\uaa31\uaa25",
-  "pakheng":"\uaa1b\uaa29\uaa07\uaa2e\uaa43",
-  "pa-kheng":"\uaa1b\uaa29\uaa07\uaa2e\uaa43",
-  "pambac":"\uaa1b\uaa29\uaa21\uaa44",
-  "pa-mbac":"\uaa1b\uaa29\uaa21\uaa44",
-  "pambaik":"\uaa1a\uaa21\uaa30\uaa40",
-  "pa-mbaik":"\uaa1a\uaa21\uaa30\uaa40",
-  "pambak":"\uaa1b\uaa29\uaa21\uaa40",
-  "pa-mbak":"\uaa1b\uaa29\uaa21\uaa40",
-  "pambaong":"\uaa1b\uaa29\uaa21\uaa2f\uaa31\uaa42",
-  "pa-mbaong":"\uaa1b\uaa29\uaa21\uaa2f\uaa31\uaa42",
-  "pambata":"\uaa1a\uaa21\uaa13",
-  "pa-mbata":"\uaa1a\uaa21\uaa13",
-  "pambeng":"\uaa1b\uaa29\uaa21\uaa2e\uaa43",
-  "pa-mbeng":"\uaa1b\uaa29\uaa21\uaa2e\uaa43",
-  "pamber":"\uaa1b\uaa29\uaa21\uaa2e\uaa49",
-  "pa-mber":"\uaa1b\uaa29\uaa21\uaa2e\uaa49",
-  "pambiah":"\uaa1b\uaa29\uaa21\uaa33\uaa4d",
-  "pa-mbiah":"\uaa1b\uaa29\uaa21\uaa33\uaa4d",
-  "pamblang":"\uaa1a\uaa21\uaa35\uaa43",
-  "pa-mblang":"\uaa1a\uaa21\uaa35\uaa43",
-  "pamblaow":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa25",
-  "pa-mblaow":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa25",
-  "pamblom":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa4c",
-  "pa-mblom":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa4c",
-  "pamblong":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa42",
-  "pa-mblong":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa42",
-  "pamblaong":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa43",
-  "pa-mblaong":"\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa43",
-  "pambluak":"\uaa1a\uaa21\uaa35\uaa36\uaa40",
-  "pa-mbluak":"\uaa1a\uaa21\uaa35\uaa36\uaa40",
-  "pamboh":"\uaa1a\uaa21\uaa2f\uaa4d",
-  "pa-mboh":"\uaa1a\uaa21\uaa2f\uaa4d",
-  "pambong":"\uaa1a\uaa21\uaa2f\uaa42",
-  "pa-mbong":"\uaa1a\uaa21\uaa2f\uaa42",
-  "pambruak":"\uaa1a\uaa21\uaa34\uaa36\uaa40",
-  "pa-mbruak":"\uaa1a\uaa21\uaa34\uaa36\uaa40",
-  "pambuk":"\uaa1a\uaa21\uaa2d\uaa40",
-  "pa-mbuk":"\uaa1a\uaa21\uaa2d\uaa40",
-  "pambuw":"\uaa1b\uaa29\uaa21\uaa2d\uaa25",
-  "pa-mbuw":"\uaa1b\uaa29\uaa21\uaa2d\uaa25",
-  "pamudah":"\uaa1a\uaa1f\uaa2d\uaa15\uaa4d",
-  "pa-mudah":"\uaa1a\uaa1f\uaa2d\uaa15\uaa4d",
-  "pandaih":"\uaa1b\uaa29\uaa19\uaa30\uaa4d",
-  "pa-ndaih":"\uaa1b\uaa29\uaa19\uaa30\uaa4d",
-  "pandaing":"\uaa1a\uaa19\uaa30\uaa42",
-  "pa-ndaing":"\uaa1a\uaa19\uaa30\uaa42",
-  "pandak":"\uaa1a\uaa19\uaa40",
-  "pa-ndak":"\uaa1a\uaa19\uaa40",
-  "pandan":"\uaa1a\uaa19\uaa46",
-  "pa-ndan":"\uaa1a\uaa19\uaa46",
-  "pandang":"\uaa1a\uaa19\uaa43",
-  "pa-ndang":"\uaa1a\uaa19\uaa43",
-  "pandao":"\uaa1a\uaa19\uaa2f\uaa31",
-  "pa-ndao":"\uaa1a\uaa19\uaa2f\uaa31",
-  "pandaw":"\uaa1a\uaa19\uaa25",
-  "pa-ndaw":"\uaa1a\uaa19\uaa25",
-  "pandaoh":"\uaa1a\uaa19\uaa2f\uaa31\uaa4d",
-  "pa-ndaoh":"\uaa1a\uaa19\uaa2f\uaa31\uaa4d",
-  "pandap":"\uaa1a\uaa19\uaa47",
-  "pa-ndap":"\uaa1a\uaa19\uaa47",
-  "pandat":"\uaa1a\uaa19\uaa45",
-  "pa-ndat":"\uaa1a\uaa19\uaa45",
-  "pandek":"\uaa1a\uaa19\uaa2e\uaa40",
-  "pa-ndek":"\uaa1a\uaa19\uaa2e\uaa40",
-  "pandem":"\uaa1a\uaa19\uaa2e\uaa4c",
-  "pa-ndem":"\uaa1a\uaa19\uaa2e\uaa4c",
-  "pandam":"\uaa1a\uaa19\uaa4c",
-  "pa-ndam":"\uaa1a\uaa19\uaa4c",
-  "pander":"\uaa1a\uaa19\uaa2e\uaa49",
-  "pa-nder":"\uaa1a\uaa19\uaa2e\uaa49",
-  "pandar":"\uaa1a\uaa19\uaa49",
-  "pa-ndar":"\uaa1a\uaa19\uaa49",
-  "pandiak":"\uaa1a\uaa19\uaa33\uaa40",
-  "pa-ndiak":"\uaa1a\uaa19\uaa33\uaa40",
-  "pandi\u00e9":"\uaa1a\uaa2f\uaa19\uaa33\uaa2e",
-  "pa-ndi\u00e9":"\uaa1a\uaa2f\uaa19\uaa33\uaa2e",
-  "pandiek":"\uaa1a\uaa19\uaa33\uaa2e\uaa40",
-  "pa-ndiek":"\uaa1a\uaa19\uaa33\uaa2e\uaa40",
-  "pandih":"\uaa1a\uaa19\uaa2a\uaa4d",
-  "pa-ndih":"\uaa1a\uaa19\uaa2a\uaa4d",
-  "pandik":"\uaa1a\uaa19\uaa2a\uaa40",
-  "pa-ndik":"\uaa1a\uaa19\uaa2a\uaa40",
-  "pandit":"\uaa1a\uaa19\uaa2a\uaa45",
-  "pa-ndit":"\uaa1a\uaa19\uaa2a\uaa45",
-  "pandoc":"\uaa1a\uaa19\uaa2f\uaa44",
-  "pa-ndoc":"\uaa1a\uaa19\uaa2f\uaa44",
-  "pandok":"\uaa1a\uaa19\uaa2f\uaa40",
-  "pa-ndok":"\uaa1a\uaa19\uaa2f\uaa40",
-  "pandong":"\uaa1b\uaa29\uaa19\uaa2f\uaa42",
-  "pa-ndong":"\uaa1b\uaa29\uaa19\uaa2f\uaa42",
-  "pandua":"\uaa1b\uaa29\uaa19\uaa36",
-  "pa-ndua":"\uaa1b\uaa29\uaa19\uaa36",
-  "panduec":"\uaa1a\uaa19\uaa36\uaa2e\uaa44",
-  "pa-nduec":"\uaa1a\uaa19\uaa36\uaa2e\uaa44",
-  "panduen":"\uaa1a\uaa19\uaa36\uaa2e\uaa46",
-  "pa-nduen":"\uaa1a\uaa19\uaa36\uaa2e\uaa46",
-  "pangan":"\uaa1b\uaa29\uaa0b\uaa46",
-  "pa-ngan":"\uaa1b\uaa29\uaa0b\uaa46",
-  "panjak":"\uaa1a\uaa12\uaa40",
-  "pa-njak":"\uaa1a\uaa12\uaa40",
-  "panjep":"\uaa1a\uaa12\uaa2e\uaa47",
-  "pa-njep":"\uaa1a\uaa12\uaa2e\uaa47",
-  "panjer":"\uaa1b\uaa29\uaa12\uaa2e\uaa49",
-  "pa-njer":"\uaa1b\uaa29\uaa12\uaa2e\uaa49",
-  "raka-ah":"\uaa23\uaa06\uaa00\uaa4d",
-  "resbaa":"\uaa23\uaa2e\uaa4b\uaa1d\uaa00",
-  "resba-a":"\uaa23\uaa2e\uaa4b\uaa1d\uaa00",
-  "ranja":"\uaa23\uaa0e\uaa29",
-  "ra-nja":"\uaa23\uaa0e\uaa29",
-  "ra-u":"\uaa23\uaa02\uaa29",
-  "ratha":"\uaa23\uaa14\uaa29",
-  "risa":"\uaa23\uaa2a\uaa27\uaa29",
-  "rusa":"\uaa23\uaa2d\uaa27\uaa29",
-  "ratuh":"\uaa23\uaa29\uaa13\uaa2d\uaa4d",
-  "saai":"\uaa26\uaa01\uaa30",
-  "sa-ai":"\uaa26\uaa01\uaa30",
-  "saaon":"\uaa27\uaa00\uaa2f\uaa46",
-  "sa-aon":"\uaa27\uaa00\uaa2f\uaa46",
-  "saasi":"\uaa27\uaa00\uaa27\uaa2b",
-  "sa-asi":"\uaa27\uaa00\uaa27\uaa2b",
-  "suaon":"\uaa27\uaa2d\uaa01\uaa2f\uaa46",
-  "su-aon":"\uaa27\uaa2d\uaa01\uaa2f\uaa46",
-  "thuaon":"\uaa14\uaa2d\uaa01\uaa2f\uaa46",
-  "thu-aon":"\uaa14\uaa2d\uaa01\uaa2f\uaa46",
-  "suuh":"\uaa27\uaa2d\uaa02\uaa4d",
-  "su-uh":"\uaa27\uaa2d\uaa02\uaa4d",
-  "suuk":"\uaa27\uaa2d\uaa02\uaa40",
-  "su-uk":"\uaa27\uaa2d\uaa02\uaa40",
-  "saratuh":"\uaa27\uaa23\uaa29\uaa13\uaa2d\uaa4d",
-  "sa-ir":"\uaa27\uaa00\uaa29\uaa49",
-  "san-dhan":"\uaa27\uaa46\uaa16\uaa46",
-  "saamak":"\uaa27\uaa00\uaa20\uaa40",
-  "sa-amak":"\uaa27\uaa00\uaa20\uaa40",
-  "si-nda":["\uaa27\uaa2a\uaa19","\uaa27\uaa2a\uaa19\uaa29"],
-  "suk":["\uaa26\uaa2d\uaa40","\uaa27\uaa2d\uaa40"],
-  "ti":["\uaa13\uaa2a","\uaa13\uaa2b"],
-  "tia":["\uaa13\uaa33","\uaa13\uaa33\uaa29"],
-  "taaiak":"\uaa13\uaa00\uaa33\uaa40",
-  "ta-aiak":"\uaa13\uaa00\uaa33\uaa40",
-  "taala":["\uaa13\uaa00\uaa24","\uaa13\uaa00\uaa24\uaa29"],
-  "ta-ala":["\uaa13\uaa00\uaa24","\uaa13\uaa00\uaa24\uaa29"],
-  "taamak":"\uaa13\uaa00\uaa20\uaa40",
-  "ta-amak":"\uaa13\uaa00\uaa20\uaa40",
-  "thaamak":"\uaa14\uaa00\uaa20\uaa40",
-  "tha-amak":"\uaa14\uaa00\uaa20\uaa40",
-  "taamrak":"\uaa13\uaa00\uaa34\uaa20\uaa40",
-  "ta-amrak":"\uaa13\uaa00\uaa34\uaa20\uaa40",
-  "taamau":"\uaa13\uaa00\uaa1f\uaa2e\uaa2d",
-  "ta-amau":"\uaa13\uaa00\uaa1f\uaa2e\uaa2d",
-  "taaong":"\uaa00\uaa2f\uaa31\uaa43",
-  "ta-aong":"\uaa13\uaa00\uaa2f\uaa31\uaa43",
-  "taat":"\uaa13\uaa00\uaa45",
-  "ta-at":"\uaa13\uaa00\uaa45",
-  "taayuh":"\uaa13\uaa00\uaa0e\uaa2d\uaa4d",
-  "ta-ayuh":"\uaa13\uaa00\uaa0e\uaa2d\uaa4d",
-  "tapa":["\uaa13\uaa1a","\uaa13\uaa1a\uaa29","\uaa13\uaa1b\uaa29"],
-  "teng-o":"\uaa13\uaa2e\uaa43\uaa05\uaa29",
-  "thaun":"\uaa14\uaa02\uaa46",
-  "tha-un":"\uaa14\uaa02\uaa46",
-  "tha-\u00e2n":"\uaa14\uaa00\uaa32\uaa46",
-  "tisapatih":"\uaa13\uaa2a\uaa26\uaa1a\uaa13\uaa2a\uaa4d",
-  "tipa":"\uaa13\uaa2a\uaa1b\uaa29",
-  "tipajh\u00e2y":"\uaa13\uaa2a\uaa1b\uaa29\uaa0f\uaa32\uaa48",
-  "yo":["\uaa22\uaa2f","\uaa22\uaa2f\uaa29"],
-  "yoraka":["\uaa22\uaa2f\uaa23\uaa06","\uaa22\uaa2f\uaa23\uaa06\uaa29"],
-  "wak":["\uaa25\uaa40","\uaa25\uaa29\uaa40"],
-  "indrapura":"\uaa01\uaa17\uaa15\uaa34\uaa1a\uaa2d\uaa23",
-  "kauthara":"\uaa06\uaa2e\uaa2d\uaa14\uaa23\uaa29",
-  "wijaya":"\uaa25\uaa2a\uaa0e\uaa22\uaa29",
-  "panduranga": "\uaa1b\uaa2e\uaa29\uaa15\uaa2d\uaa23\uaa43\uaa08",
-  "pandarang": "\uaa1b\uaa2e\uaa29\uaa15\uaa23\uaa43"
+  "a": [
+    "\uaa00"
+  ],
+  "abalih": [
+    "\uaa00\uaa1d\uaa24\uaa2a\uaa4d"
+  ],
+  "ablih": [
+    "\uaa00\uaa1d\uaa35\uaa2a\uaa4d"
+  ],
+  "abal\u00e9h": [
+    "\uaa00\uaa1d\uaa24\uaa2f\uaa2e\uaa4d"
+  ],
+  "abasak": [
+    "\uaa00\uaa1d\uaa27\uaa40"
+  ],
+  "abaw": [
+    "\uaa00\uaa1d\uaa25"
+  ],
+  "abha": [
+    "\uaa00\uaa1e",
+    "\uaa00\uaa1e\uaa29"
+  ],
+  "abih": [
+    "\uaa00\uaa1d\uaa2a\uaa4d"
+  ],
+  "abihsamil": [
+    "\uaa00\uaa1d\uaa2a\uaa4d\uaa26\uaa1f\uaa2a\uaa4a"
+  ],
+  "abuec": [
+    "\uaa00\uaa1d\uaa36\uaa2e\uaa44"
+  ],
+  "abuk": [
+    "\uaa00\uaa1d\uaa2d\uaa40"
+  ],
+  "abukhar": [
+    "\uaa00\uaa1d\uaa2d\uaa07\uaa49"
+  ],
+  "ac": [
+    "\uaa00\uaa44"
+  ],
+  "acakan": [
+    "\uaa00\uaa0c\uaa06\uaa46"
+  ],
+  "acaok ": [
+    "\uaa00\uaa06\uaa2f\uaa31\uaa40"
+  ],
+  "acaow": [
+    "\uaa00\uaa0c\uaa2f\uaa31\uaa25"
+  ],
+  "acar": [
+    "\uaa00\uaa0c\uaa49"
+  ],
+  "achat": [
+    "\uaa00\uaa0d\uaa45"
+  ],
+  "chiat": [
+    "\uaa00\uaa0d\uaa33\uaa45"
+  ],
+  "acung": [
+    "\uaa00\uaa0c\uaa2d\uaa42"
+  ],
+  "ada": [
+    "\uaa00\uaa15",
+    "\uaa00\uaa15\uaa29"
+  ],
+  "adac": [
+    "\uaa00\uaa15\uaa44"
+  ],
+  "adakan": [
+    "\uaa00\uaa15\uaa06\uaa46"
+  ],
+  "adam": [
+    "\uaa00\uaa15\uaa4c"
+  ],
+  "adan": [
+    "\uaa00\uaa15\uaa46"
+  ],
+  "adaoh": [
+    "\uaa00\uaa15\uaa2f\uaa31\uaa4d"
+  ],
+  "adap": [
+    "\uaa00\uaa15\uaa47"
+  ],
+  "adar": [
+    "\uaa00\uaa15\uaa49"
+  ],
+  "adarap": [
+    "\uaa00\uaa15\uaa23\uaa47"
+  ],
+  "adaruas": [
+    "\uaa00\uaa15\uaa23\uaa36\uaa4b"
+  ],
+  "adat": [
+    "\uaa00\uaa15\uaa45"
+  ],
+  "ad\u00e9": [
+    "\uaa00\uaa15\uaa2f\uaa2e"
+  ],
+  "adei": [
+    "\uaa00\uaa15\uaa2c"
+  ],
+  "ader": [
+    "\uaa00\uaa15\uaa2e\uaa49"
+  ],
+  "aderha": [
+    "\uaa00\uaa15\uaa2e\uaa49\uaa28",
+    "\uaa00\uaa15\uaa2e\uaa49\uaa28\uaa29"
+  ],
+  "adham": [
+    "\uaa00\uaa16\uaa4c"
+  ],
+  "adhia": [
+    "\uaa00\uaa16\uaa33",
+    "\uaa00\uaa16\uaa33\uaa29"
+  ],
+  "adhua": [
+    "\uaa00\uaa16\uaa36",
+    "\uaa00\uaa16\uaa36\uaa29"
+  ],
+  "adhur": [
+    "\uaa00\uaa16\uaa2d\uaa49"
+  ],
+  "adiak": [
+    "\uaa00\uaa15\uaa33\uaa40"
+  ],
+  "adican": [
+    "\uaa00\uaa15\uaa2a\uaa0c\uaa46"
+  ],
+  "adier": [
+    "\uaa00\uaa15\uaa33\uaa2e\uaa49"
+  ],
+  "adih": [
+    "\uaa00\uaa15\uaa2a\uaa4d"
+  ],
+  "adil": [
+    "\uaa00\uaa15\uaa2a\uaa4a"
+  ],
+  "adin": [
+    "\uaa00\uaa15\uaa2a\uaa46"
+  ],
+  "adit": [
+    "\uaa00\uaa15\uaa2a\uaa45"
+  ],
+  "aditiak": [
+    "\uaa00\uaa15\uaa2a\uaa13\uaa33\uaa40"
+  ],
+  "aduk": [
+    "\uaa00\uaa15\uaa2d\uaa40"
+  ],
+  "adung": [
+    "\uaa00\uaa15\uaa2d\uaa42"
+  ],
+  "aduol": [
+    "\uaa00\uaa15\uaa36\uaa2f\uaa4a"
+  ],
+  "ae": [
+    "\uaa00\uaa2e"
+  ],
+  "aek": [
+    "\uaa00\uaa2e\uaa40"
+  ],
+  "aem": [
+    "\uaa00\uaa2e\uaa4c"
+  ],
+  "aen": [
+    "\uaa00\uaa2e\uaa46"
+  ],
+  "aeng": [
+    "\uaa00\uaa2e\uaa43",
+    "\uaa00\uaa2e\uaa42"
+  ],
+  "aerti": [
+    "\uaa00\uaa2e\uaa49\uaa13\uaa2a"
+  ],
+  "aes": [
+    "\uaa00\uaa2e\uaa4b"
+  ],
+  "aesdhuk": [
+    "\uaa00\uaa2e\uaa4b\uaa16\uaa2d\uaa40"
+  ],
+  "aessanai": [
+    "\uaa00\uaa2e\uaa4b\uaa27\uaa17\uaa30"
+  ],
+  "aey": [
+    "\uaa00\uaa2e\uaa48"
+  ],
+  "agah": [
+    "\uaa00\uaa08\uaa4d"
+  ],
+  "agak": [
+    "\uaa00\uaa08\uaa40"
+  ],
+  "agal": [
+    "\uaa00\uaa08\uaa4a"
+  ],
+  "agam": [
+    "\uaa00\uaa08\uaa4c"
+  ],
+  "agama": [
+    "\uaa00\uaa08\uaa1f",
+    "\uaa00\uaa08\uaa20"
+  ],
+  "agameh": [
+    "\uaa00\uaa08\uaa1f\uaa2e\uaa4d"
+  ],
+  "agaok": [
+    "\uaa00\uaa08\uaa2f\uaa31\uaa40"
+  ],
+  "agaw": [
+    "\uaa00\uaa08\uaa25"
+  ],
+  "agha": [
+    "\uaa00\uaa09",
+    "\uaa00\uaa09\uaa29"
+  ],
+  "agok": [
+    "\uaa00\uaa08\uaa2f\uaa40"
+  ],
+  "agol": [
+    "\uaa00\uaa08\uaa2f\uaa4a"
+  ],
+  "agraok": [
+    "\uaa00\uaa08\uaa34\uaa2f\uaa31\uaa40"
+  ],
+  "agrih": [
+    "\uaa00\uaa08\uaa34\uaa2a\uaa4d"
+  ],
+  "agual": [
+    "\uaa00\uaa08\uaa36\uaa4a"
+  ],
+  "agun": [
+    "\uaa00\uaa08\uaa2d\uaa46"
+  ],
+  "ah": [
+    "\uaa00\uaa4d"
+  ],
+  "ahak": [
+    "\uaa00\uaa28\uaa40"
+  ],
+  "ahaok": [
+    "\uaa00\uaa28\uaa2f\uaa31\uaa40"
+  ],
+  "ahaow": [
+    "\uaa00\uaa28\uaa2f\uaa31\uaa25"
+  ],
+  "ahar": [
+    "\uaa00\uaa28\uaa49"
+  ],
+  "ahat": [
+    "\uaa00\uaa28\uaa45"
+  ],
+  "ahe": [
+    "\uaa00\uaa28\uaa2e"
+  ],
+  "ah\u00e9": [
+    "\uaa00\uaa28\uaa2f\uaa2e"
+  ],
+  "aheh": [
+    "\uaa00\uaa28\uaa2e\uaa4d"
+  ],
+  "ahei": [
+    "\uaa00\uaa28\uaa2c"
+  ],
+  "ahier": [
+    "\uaa00\uaa28\uaa33\uaa2e\uaa49"
+  ],
+  "ahir": [
+    "\uaa00\uaa28\uaa2a\uaa49"
+  ],
+  "ai": [
+    "\uaa04"
+  ],
+  "aia": [
+    "\uaa00\uaa33",
+    "\uaa00\uaa33\uaa29"
+  ],
+  "aiak": [
+    "\uaa00\uaa33\uaa40"
+  ],
+  "aiang": [
+    "\uaa00\uaa30\uaa43"
+  ],
+  "aiannajat": [
+    "\uaa00\uaa33\uaa46\uaa18\uaa0e\uaa45"
+  ],
+  "aiaok": [
+    "\uaa00\uaa33\uaa2f\uaa31\uaa40"
+  ],
+  "aiar": [
+    "\uaa00\uaa33\uaa49"
+  ],
+  "aiek": [
+    "\uaa00\uaa33\uaa2e\uaa40"
+  ],
+  "aiem": [
+    "\uaa00\uaa33\uaa2e\uaa4c"
+  ],
+  "ai\u00e9m": [
+    "\uaa00\uaa33\uaa2e\uaa4c"
+  ],
+  "aier": [
+    "\uaa00\uaa33\uaa2e\uaa49"
+  ],
+  "aiet": [
+    "\uaa00\uaa33\uaa2e\uaa45"
+  ],
+  "aih": [
+    "\uaa00\uaa30\uaa4d"
+  ],
+  "aik": [
+    "\uaa00\uaa30\uaa40"
+  ],
+  "aiy": [
+    "\uaa00\uaa30\uaa48"
+  ],
+  "aiyuseh": [
+    "\uaa04\uaa22\uaa2d\uaa26\uaa2e\uaa4d"
+  ],
+  "ajal": [
+    "\uaa00\uaa0e\uaa4a"
+  ],
+  "ajaot": [
+    "\uaa00\uaa0e\uaa2f\uaa31\uaa45"
+  ],
+  "ajeng": [
+    "\uaa00\uaa0e\uaa2e\uaa43",
+    "\uaa00\uaa0e\uaa2e\uaa42"
+  ],
+  "aji": [
+    "\uaa00\uaa0e\uaa2a",
+    "\uaa00\uaa0e\uaa2b"
+  ],
+  "ajin": [
+    "\uaa00\uaa0e\uaa2a\uaa46"
+  ],
+  "ajreng": [
+    "\uaa00\uaa0e\uaa34\uaa2e\uaa43"
+  ],
+  "ajut": [
+    "\uaa00\uaa0e\uaa2d\uaa45"
+  ],
+  "ak": [
+    "\uaa00\uaa40"
+  ],
+  "akaih": [
+    "\uaa00\uaa06\uaa30\uaa4d"
+  ],
+  "akak": [
+    "\uaa00\uaa06\uaa40"
+  ],
+  "akal": [
+    "\uaa00\uaa06\uaa4a"
+  ],
+  "akam": [
+    "\uaa00\uaa06\uaa4c"
+  ],
+  "akan": [
+    "\uaa00\uaa06\uaa46"
+  ],
+  "akaok": [
+    "\uaa00\uaa06\uaa2f\uaa31\uaa40"
+  ],
+  "akaphir": [
+    "\uaa00\uaa06\uaa1c\uaa2a\uaa49"
+  ],
+  "akarah": [
+    "\uaa00\uaa06\uaa23\uaa4d"
+  ],
+  "akay\u00e9t": [
+    "\uaa00\uaa06\uaa22\uaa2f\uaa2e\uaa45",
+    "\uaa00\uaa29\uaa06\uaa22\uaa2f\uaa2e\uaa45"
+  ],
+  "akei": [
+    "\uaa00\uaa06\uaa2c"
+  ],
+  "akes": [
+    "\uaa00\uaa06\uaa2e\uaa4b"
+  ],
+  "akgar": [
+    "\uaa00\uaa40\uaa08\uaa49"
+  ],
+  "akha": [
+    "\uaa00\uaa07",
+    "\uaa00\uaa07\uaa29"
+  ],
+  "akhan": [
+    "\uaa00\uaa07\uaa46"
+  ],
+  "akhar": [
+    "\uaa00\uaa07\uaa49"
+  ],
+  "akhin": [
+    "\uaa00\uaa07\uaa2a\uaa46"
+  ],
+  "akhirat": [
+    "\uaa00\uaa07\uaa2a\uaa23\uaa45"
+  ],
+  "akiak": [
+    "\uaa00\uaa06\uaa33\uaa40"
+  ],
+  "akieng": [
+    "\uaa00\uaa06\uaa2e\uaa43",
+    "\uaa00\uaa06\uaa33\uaa2e\uaa42"
+  ],
+  "aku": [
+    "\uaa00\uaa06\uaa2d",
+    "\uaa00\uaa06\uaa2d\uaa29"
+  ],
+  "akuh": [
+    "\uaa00\uaa06\uaa2d\uaa4d"
+  ],
+  "ala": [
+    "\uaa00\uaa24",
+    "\uaa00\uaa24\uaa29"
+  ],
+  "alah": [
+    "\uaa00\uaa24\uaa4d"
+  ],
+  "alahamdu": [
+    "\uaa00\uaa24\uaa28\uaa4c\uaa15\uaa2d"
+  ],
+  "alai": [
+    "\uaa00\uaa24\uaa30"
+  ],
+  "alaik": [
+    "\uaa00\uaa24\uaa30\uaa40"
+  ],
+  "alaiy": [
+    "\uaa00\uaa24\uaa30\uaa48"
+  ],
+  "alak": [
+    "\uaa00\uaa24\uaa40"
+  ],
+  "alam": [
+    "\uaa00\uaa24\uaa4c"
+  ],
+  "alamin": [
+    "\uaa00\uaa24\uaa1f\uaa2a\uaa46"
+  ],
+  "alang": [
+    "\uaa00\uaa24\uaa43"
+  ],
+  "alangkar": [
+    "\uaa00\uaa24\uaa43\uaa06\uaa49"
+  ],
+  "alaok": [
+    "\uaa00\uaa24\uaa2f\uaa31\uaa40"
+  ],
+  "alaong": [
+    "\uaa00\uaa24\uaa2f\uaa31\uaa43",
+    "\uaa00\uaa24\uaa2f\uaa31\uaa42"
+  ],
+  "alaow": [
+    "\uaa00\uaa24\uaa2f\uaa31\uaa25"
+  ],
+  "alar": [
+    "\uaa00\uaa24\uaa49"
+  ],
+  "alaya": [
+    "\uaa00\uaa24\uaa48",
+    "\uaa00\uaa24\uaa22\uaa29"
+  ],
+  "ali": [
+    "\uaa00\uaa24\uaa2a"
+  ],
+  "aliah": [
+    "\uaa00\uaa24\uaa33\uaa4d"
+  ],
+  "alieh": [
+    "\uaa00\uaa24\uaa33\uaa2e\uaa4d"
+  ],
+  "alih": [
+    "\uaa00\uaa24\uaa2a\uaa4d"
+  ],
+  "alim": [
+    "\uaa00\uaa24\uaa2a\uaa4c"
+  ],
+  "alimo": [
+    "\uaa00\uaa24\uaa2a\uaa1f\uaa2f",
+    "\uaa00\uaa24\uaa2a\uaa1f\uaa2f\uaa29"
+  ],
+  "alin": [
+    "\uaa00\uaa24\uaa2a\uaa46"
+  ],
+  "almuharam": [
+    "\uaa00\uaa4a\uaa1f\uaa2d\uaa28\uaa23\uaa4c"
+  ],
+  "alok": [
+    "\uaa00\uaa24\uaa2f\uaa40"
+  ],
+  "aluahuk": [
+    "\uaa00\uaa24\uaa36\uaa28\uaa2d\uaa40"
+  ],
+  "aluk": [
+    "\uaa00\uaa24\uaa2d\uaa40"
+  ],
+  "aluw": [
+    "\uaa00\uaa24\uaa2d\uaa25"
+  ],
+  "alwal": [
+    "\uaa00\uaa4a\uaa25\uaa4a"
+  ],
+  "am": [
+    "\uaa00\uaa4c"
+  ],
+  "ama": [
+    "\uaa00\uaa1f",
+    "\uaa00\uaa1f\uaa29"
+  ],
+  "amaik": [
+    "\uaa00\uaa1f\uaa30\uaa40"
+  ],
+  "amal": [
+    "\uaa00\uaa1f\uaa4a"
+  ],
+  "amam": [
+    "\uaa00\uaa1f\uaa4c"
+  ],
+  "aman": [
+    "\uaa00\uaa1f\uaa46",
+    "\uaa00\uaa20\uaa46"
+  ],
+  "amaoh": [
+    "\uaa00\uaa1f\uaa2f\uaa31\uaa4d"
+  ],
+  "amaok": [
+    "\uaa00\uaa1f\uaa2f\uaa31\uaa40"
+  ],
+  "amaong": [
+    "\uaa00\uaa1f\uaa2f\uaa31\uaa43",
+    "\uaa00\uaa1f\uaa2f\uaa31\uaa42"
+  ],
+  "amaow": [
+    "\uaa00\uaa1f\uaa2f\uaa31\uaa25"
+  ],
+  "amar": [
+    "\uaa00\uaa1f\uaa49"
+  ],
+  "amat": [
+    "\uaa00\uaa1f\uaa45"
+  ],
+  "amaw": [
+    "\uaa00\uaa1f\uaa25",
+    "\uaa00\uaa20\uaa25"
+  ],
+  "amieng": [
+    "\uaa00\uaa1f\uaa33\uaa2e\uaa43",
+    "\uaa00\uaa1f\uaa33\uaa2e\uaa42"
+  ],
+  "amil": [
+    "\uaa00\uaa1f\uaa2a\uaa4a"
+  ],
+  "among": [
+    "\uaa00\uaa1f\uaa2f\uaa42"
+  ],
+  "ampem": [
+    "\uaa00\uaa4c\uaa1a\uaa2e\uaa4c"
+  ],
+  "ampun": [
+    "\uaa00\uaa4c\uaa1a\uaa2d\uaa46"
+  ],
+  "amra": [
+    "\uaa00\uaa1f\uaa34",
+    "\uaa00\uaa1f\uaa34\uaa29"
+  ],
+  "amrah": [
+    "\uaa00\uaa1f\uaa34\uaa4d"
+  ],
+  "amraik": [
+    "\uaa00\uaa1f\uaa34\uaa30\uaa40"
+  ],
+  "amrak": [
+    "\uaa00\uaa1f\uaa34\uaa40"
+  ],
+  "amraow": [
+    "\uaa00\uaa1f\uaa34\uaa2f\uaa31\uaa25"
+  ],
+  "amu": [
+    "\uaa00\uaa1f\uaa2d"
+  ],
+  "amuar": [
+    "\uaa00\uaa1f\uaa36\uaa49"
+  ],
+  "amur": [
+    "\uaa00\uaa1f\uaa2d\uaa49"
+  ],
+  "an": [
+    "\uaa00\uaa46"
+  ],
+  "\u00e2n": [
+    "\uaa00\uaa32\uaa46"
+  ],
+  "an-daranal": [
+    "\uaa00\uaa46\uaa15\uaa23\uaa17\uaa4a"
+  ],
+  "anaih": [
+    "\uaa00\uaa17\uaa30\uaa4d"
+  ],
+  "anak": [
+    "\uaa00\uaa17\uaa40",
+    "\uaa00\uaa18\uaa40"
+  ],
+  "an\u00e2k": [
+    "\uaa00\uaa17\uaa32\uaa40"
+  ],
+  "anakhan": [
+    "\uaa00\uaa17\uaa07\uaa46"
+  ],
+  "anal": [
+    "\uaa00\uaa17\uaa4a"
+  ],
+  "an\u00e2ng": [
+    "\uaa00\uaa17\uaa32\uaa42"
+  ],
+  "anangan": [
+    "\uaa00\uaa17\uaa0a\uaa46",
+    "\uaa00\uaa17\uaa0b\uaa46"
+  ],
+  "anangap": [
+    "\uaa00\uaa17\uaa0a\uaa47",
+    "\uaa00\uaa17\uaa0b\uaa47"
+  ],
+  "ananguei": [
+    "\uaa00\uaa17\uaa0a\uaa36\uaa2c"
+  ],
+  "anaong": [
+    "\uaa00\uaa17\uaa2f\uaa31\uaa43"
+  ],
+  "anapan": [
+    "\uaa00\uaa17\uaa1a\uaa46"
+  ],
+  "anatah": [
+    "\uaa00\uaa17\uaa13\uaa4d"
+  ],
+  "a-ndar": [
+    "\uaa00\uaa19\uaa49"
+  ],
+  "a-ndel": [
+    "\uaa00\uaa19\uaa2e\uaa4a"
+  ],
+  "an-dri": [
+    "\uaa00\uaa46\uaa15\uaa34\uaa2a"
+  ],
+  "an\u00e9kak": [
+    "\uaa00\uaa17\uaa2f\uaa2e\uaa06\uaa40"
+  ],
+  "ang": [
+    "\uaa00\uaa43"
+  ],
+  "\u00e2ng": [
+    "\uaa00\uaa32\uaa43"
+  ],
+  "angah": [
+    "\uaa00\uaa0a\uaa4d",
+    " \uaa00\uaa0b\uaa4d"
+  ],
+  "ang\u00e2k": [
+    "\uaa00\uaa0a\uaa32\uaa40"
+  ],
+  "angal": [
+    "\uaa00\uaa0a\uaa4a",
+    "\uaa00\uaa18\uaa4a"
+  ],
+  "angan": [
+    "\uaa00\uaa0a\uaa46",
+    "\uaa00\uaa0b\uaa46"
+  ],
+  "angaok": [
+    "\uaa00\uaa0a\uaa2f\uaa31\uaa40"
+  ],
+  "angap": [
+    "\uaa00\uaa0a\uaa47"
+  ],
+  "angar": [
+    "\uaa00\uaa0a\uaa49"
+  ],
+  "angat": [
+    "\uaa00\uaa0a\uaa45"
+  ],
+  "\u00e2nggaleh": [
+    "\uaa00\uaa32\uaa43\uaa08\uaa24\uaa2e\uaa4d"
+  ],
+  "anggrat": [
+    "\uaa00\uaa43\uaa08\uaa34\uaa45"
+  ],
+  "angin": [
+    "\uaa00\uaa0a\uaa2a\uaa46"
+  ],
+  "angka": [
+    "\uaa00\uaa43\uaa06",
+    "\uaa00\uaa43\uaa06\uaa29"
+  ],
+  "angkan": [
+    "\uaa00\uaa43\uaa06\uaa46"
+  ],
+  "angkar": [
+    "\uaa00\uaa43\uaa06\uaa49"
+  ],
+  "angua": [
+    "\uaa00\uaa0a\uaa36"
+  ],
+  "anguac": [
+    "\uaa00\uaa0a\uaa36\uaa44"
+  ],
+  "anguai": [
+    "\uaa00\uaa0a\uaa36\uaa30"
+  ],
+  "anguec": [
+    "\uaa00\uaa0a\uaa36\uaa2e\uaa44"
+  ],
+  "anguei": [
+    "\uaa00\uaa0a\uaa36\uaa2c"
+  ],
+  "anguh": [
+    "\uaa00\uaa0a\uaa2d\uaa4d"
+  ],
+  "aniai": [
+    "\uaa00\uaa17\uaa33\uaa30"
+  ],
+  "anih": [
+    "\uaa00\uaa17\uaa2a\uaa4d"
+  ],
+  "anik": [
+    "\uaa00\uaa17\uaa2a\uaa40"
+  ],
+  "anikak": [
+    "\uaa00\uaa17\uaa2a\uaa06\uaa40"
+  ],
+  "aning": [
+    "\uaa00\uaa17\uaa2a\uaa42",
+    "\uaa00\uaa17\uaa2b\uaa42"
+  ],
+  "anit": [
+    "\uaa00\uaa17\uaa2a\uaa45"
+  ],
+  "annabiya": [
+    "\uaa00\uaa46\uaa17\uaa1d\uaa2a\uaa22\uaa29"
+  ],
+  "anrang ": [
+    "\uaa00\uaa17\uaa34\uaa43"
+  ],
+  "anraong ": [
+    "\uaa00\uaa17\uaa34\uaa2f\uaa31\uaa43"
+  ],
+  "anrek": [
+    "\uaa00\uaa17\uaa34\uaa2e\uaa40"
+  ],
+  "anreng": [
+    "\uaa00\uaa17\uaa34\uaa2e\uaa43"
+  ],
+  "anta": [
+    "\uaa00\uaa46\uaa13",
+    " \uaa00\uaa46\uaa13\uaa29"
+  ],
+  "anuec": [
+    "\uaa00\uaa17\uaa36\uaa2e\uaa44"
+  ],
+  "anuh": [
+    "\uaa00\uaa17\uaa2d\uaa4d"
+  ],
+  "anung": [
+    "\uaa00\uaa17\uaa2d\uaa42"
+  ],
+  "anya": [
+    "\uaa00\uaa10",
+    "\uaa00\uaa10\uaa29"
+  ],
+  "anyim": [
+    "\uaa00\uaa10\uaa2a\uaa4c"
+  ],
+  "anyue": [
+    "\uaa00\uaa10\uaa36\uaa2e"
+  ],
+  "anyuk": [
+    "\uaa00\uaa10\uaa2d\uaa40"
+  ],
+  "ao": [
+    "\uaa00\uaa2f\uaa31"
+  ],
+  "aoh": [
+    "\uaa00\uaa2f\uaa31\uaa4d"
+  ],
+  "aok": [
+    "\uaa00\uaa2f\uaa31\uaa40"
+  ],
+  "aoknya": [
+    "\uaa00\uaa2f\uaa31\uaa40\uaa11",
+    "\uaa00\uaa2f\uaa31\uaa40\uaa11\uaa29"
+  ],
+  "aol": [
+    "\uaa00\uaa2f\uaa31\uaa4a"
+  ],
+  "aom": [
+    "\uaa00\uaa2f\uaa4c"
+  ],
+  "aong": [
+    "\uaa00\uaa2f\uaa31\uaa43",
+    "\uaa00\uaa2f\uaa31\uaa42"
+  ],
+  "aot": [
+    "\uaa00\uaa2f\uaa31\uaa45"
+  ],
+  "aowali": [
+    "\uaa00\uaa2f\uaa31\uaa25\uaa24\uaa2b"
+  ],
+  "ap": [
+    "\uaa00\uaa47"
+  ],
+  "apa": [
+    "\uaa00\uaa1a",
+    "\uaa00\uaa1a\uaa29"
+  ],
+  "apah": [
+    "\uaa00\uaa1a\uaa4d"
+  ],
+  "apak": [
+    "\uaa00\uaa1a\uaa40"
+  ],
+  "apakar": [
+    "\uaa00\uaa1a\uaa06\uaa49"
+  ],
+  "apan": [
+    "\uaa00\uaa1a\uaa46"
+  ],
+  "apaong": [
+    "\uaa00\uaa1a\uaa2f\uaa31\uaa43"
+  ],
+  "apaow": [
+    "\uaa00\uaa1a\uaa2f\uaa31\uaa25"
+  ],
+  "aphaow": [
+    "\uaa00\uaa1c\uaa2f\uaa31\uaa25"
+  ],
+  "apieng": [
+    "\uaa00\uaa1a\uaa33\uaa2e\uaa43 ",
+    "\uaa00\uaa1a\uaa33\uaa2e\uaa42"
+  ],
+  "apong": [
+    "\uaa00\uaa1a\uaa2f\uaa42"
+  ],
+  "aprai": [
+    "\uaa00\uaa1a\uaa34\uaa30"
+  ],
+  "apthap": [
+    "\uaa00\uaa47\uaa14\uaa47"
+  ],
+  "apuei": [
+    "\uaa00\uaa1a\uaa36\uaa2c"
+  ],
+  "apuh": [
+    "\uaa00\uaa1a\uaa2d\uaa4d"
+  ],
+  "apung": [
+    "\uaa00\uaa1a\uaa2d\uaa42"
+  ],
+  "ar": [
+    "\uaa00\uaa49"
+  ],
+  "ara": [
+    "\uaa00\uaa23",
+    " \uaa00\uaa23\uaa29"
+  ],
+  "arah": [
+    "\uaa00\uaa23\uaa4d"
+  ],
+  "arai": [
+    "\uaa00\uaa23\uaa30"
+  ],
+  "arak": [
+    "\uaa00\uaa23\uaa40"
+  ],
+  "arakes": [
+    "\uaa00\uaa23\uaa06\uaa2e\uaa4b"
+  ],
+  "aral": [
+    "\uaa00\uaa23\uaa4a"
+  ],
+  "aram": [
+    "\uaa00\uaa23\uaa4c"
+  ],
+  "arang": [
+    "\uaa00\uaa23\uaa43"
+  ],
+  "arao": [
+    "\uaa00\uaa23\uaa2f\uaa31"
+  ],
+  "araok": [
+    "\uaa00\uaa23\uaa2f\uaa31\uaa40"
+  ],
+  "araong": [
+    "\uaa00\uaa23\uaa2f\uaa31\uaa43"
+  ],
+  "arap": [
+    "\uaa00\uaa23\uaa47"
+  ],
+  "aras": [
+    "\uaa00\uaa23\uaa4b"
+  ],
+  "arayah": [
+    "\uaa00\uaa23\uaa22\uaa4d"
+  ],
+  "ardar": [
+    "\uaa00\uaa49\uaa15\uaa49"
+  ],
+  "ardha": [
+    "\uaa00\uaa49\uaa16",
+    "\uaa00\uaa49\uaa15\uaa29"
+  ],
+  "ariek": [
+    "\uaa00\uaa23\uaa33\uaa2e\uaa40"
+  ],
+  "arieng": [
+    "\uaa00\uaa23\uaa33\uaa2e\uaa42"
+  ],
+  "arik": [
+    "\uaa00\uaa23\uaa2a\uaa40"
+  ],
+  "aring": [
+    "\uaa00\uaa23\uaa2a\uaa42"
+  ],
+  "arip": [
+    "\uaa00\uaa23\uaa2a\uaa47"
+  ],
+  "ariya": [
+    "\uaa00\uaa23\uaa2a\uaa22",
+    "\uaa00\uaa23\uaa2a\uaa22\uaa29"
+  ],
+  "aro": [
+    "\uaa00\uaa23\uaa2f",
+    "\uaa00\uaa23\uaa2f\uaa29"
+  ],
+  "arrak": [
+    "\uaa00\uaa49\uaa23\uaa40"
+  ],
+  "arsak": [
+    "\uaa00\uaa49\uaa27\uaa40"
+  ],
+  "aruah": [
+    "\uaa00\uaa23\uaa36\uaa4d"
+  ],
+  "arung": [
+    "\uaa00\uaa23\uaa2d\uaa42"
+  ],
+  "asa": [
+    "\uaa00\uaa27",
+    "\uaa00\uaa27\uaa29"
+  ],
+  "asai": [
+    "\uaa00\uaa27\uaa30"
+  ],
+  "asaih": [
+    "\uaa00\uaa27\uaa30\uaa4d"
+  ],
+  "asak": [
+    "\uaa00\uaa27\uaa40"
+  ],
+  "asalam": [
+    "\uaa00\uaa27\uaa24\uaa4c"
+  ],
+  "asalasak": [
+    "\uaa00\uaa27\uaa24\uaa27\uaa40"
+  ],
+  "asan": [
+    "\uaa00\uaa27\uaa46"
+  ],
+  "asar": [
+    "\uaa00\uaa27\uaa49"
+  ],
+  "asarat": [
+    "\uaa00\uaa27\uaa23\uaa45"
+  ],
+  "asat": [
+    "\uaa00\uaa27\uaa45"
+  ],
+  "asit": [
+    "\uaa00\uaa26\uaa2a\uaa45"
+  ],
+  "asubhap": [
+    "\uaa00\uaa27\uaa2d\uaa1e\uaa47"
+  ],
+  "asuet": [
+    "\uaa00\uaa27\uaa36\uaa2e\uaa45"
+  ],
+  "asul": [
+    "\uaa00\uaa27\uaa2d\uaa4a"
+  ],
+  "asur": [
+    "\uaa00\uaa27\uaa2d\uaa49"
+  ],
+  "at": [
+    "\uaa00\uaa45"
+  ],
+  "atabha": [
+    "\uaa00\uaa13\uaa1e",
+    "\uaa00\uaa13\uaa1e\uaa29"
+  ],
+  "atadha": [
+    "\uaa00\uaa13\uaa16",
+    "\uaa00\uaa13\uaa16\uaa29"
+  ],
+  "atak": [
+    "\uaa00\uaa13\uaa40"
+  ],
+  "atak\u00e9": [
+    "\uaa00\uaa13\uaa06\uaa2f\uaa2e"
+  ],
+  "atal": [
+    "\uaa00\uaa13\uaa4a"
+  ],
+  "atalai": [
+    "\uaa00\uaa13\uaa24\uaa30"
+  ],
+  "atam": [
+    "\uaa00\uaa13\uaa4c"
+  ],
+  "atang": [
+    "\uaa00\uaa13\uaa43"
+  ],
+  "ataong": [
+    "\uaa00\uaa13\uaa2f\uaa31\uaa43"
+  ],
+  "atau": [
+    "\uaa00\uaa13\uaa2e\uaa2d"
+  ],
+  "atcaba": [
+    "\uaa00\uaa45\uaa0c\uaa1d"
+  ],
+  "at\u00e9h": [
+    "\uaa00\uaa13\uaa2f\uaa2e\uaa4d"
+  ],
+  "atha": [
+    "\uaa00\uaa14",
+    "\uaa00\uaa14\uaa29"
+  ],
+  "athah": [
+    "\uaa00\uaa14\uaa4d"
+  ],
+  "athak": [
+    "\uaa00\uaa14\uaa40"
+  ],
+  "athal": [
+    "\uaa00\uaa14\uaa4a"
+  ],
+  "athar": [
+    "\uaa00\uaa14\uaa49"
+  ],
+  "athau": [
+    "\uaa00\uaa14\uaa2e\uaa2d"
+  ],
+  "athawbah": [
+    "\uaa00\uaa14\uaa25\uaa1d\uaa4d"
+  ],
+  "athir": [
+    "\uaa00\uaa14\uaa2a\uaa49"
+  ],
+  "athur": [
+    "\uaa00\uaa14\uaa2d\uaa49"
+  ],
+  "ating": [
+    "\uaa00\uaa13\uaa2a\uaa42"
+  ],
+  "atuel": [
+    "\uaa00\uaa13\uaa36\uaa2e\uaa4a"
+  ],
+  "atuk": [
+    "\uaa00\uaa13\uaa2d\uaa40"
+  ],
+  "atulang": [
+    "\uaa00\uaa13\uaa2d\uaa24\uaa43"
+  ],
+  "auac": [
+    "\uaa00\uaa36\uaa44  "
+  ],
+  "auak ": [
+    "\uaa00\uaa36\uaa40"
+  ],
+  "auec": [
+    "\uaa00\uaa36\uaa2e\uaa44"
+  ],
+  "auel": [
+    "\uaa00\uaa36\uaa2e\uaa4a"
+  ],
+  "auen": [
+    "\uaa00\uaa36\uaa2e\uaa46"
+  ],
+  "auer": [
+    "\uaa00\uaa36\uaa2e\uaa49"
+  ],
+  "auis": [
+    "\uaa00\uaa36\uaa2a\uaa4b"
+  ],
+  "auw": [
+    "\uaa00\uaa36\uaa25    ",
+    "\uaa00\uaa2d\uaa25"
+  ],
+  "aw": [
+    "\uaa00\uaa25"
+  ],
+  "awah": [
+    "\uaa00\uaa25\uaa4d"
+  ],
+  "await": [
+    "\uaa00\uaa25\uaa30\uaa45"
+  ],
+  "awak": [
+    "\uaa00\uaa25\uaa40"
+  ],
+  "awal": [
+    "\uaa00\uaa25\uaa4a"
+  ],
+  "awan": [
+    "\uaa00\uaa25\uaa46"
+  ],
+  "awaow": [
+    "\uaa00\uaa25\uaa2f\uaa31\uaa25"
+  ],
+  "awar": [
+    "\uaa00\uaa25\uaa49"
+  ],
+  "aweng": [
+    "\uaa00\uaa25\uaa2e\uaa43"
+  ],
+  "awet": [
+    "\uaa00\uaa25\uaa2e\uaa45"
+  ],
+  "awok": [
+    "\uaa00\uaa25\uaa2f\uaa40"
+  ],
+  "\u00e2y": [
+    "\uaa00\uaa32\uaa48"
+  ],
+  "ayah": [
+    "\uaa00\uaa22\uaa4d"
+  ],
+  "ayaman": [
+    "\uaa00\uaa22\uaa1f\uaa46"
+  ],
+  "ayap": [
+    "\uaa00\uaa22\uaa47"
+  ],
+  "ayeng": [
+    "\uaa00\uaa22\uaa2e\uaa43",
+    "\uaa00\uaa22\uaa2e\uaa42"
+  ],
+  "ayuh": [
+    "\uaa00\uaa22\uaa2d\uaa4d"
+  ],
+  "ayuk": [
+    "\uaa00\uaa22\uaa2d\uaa40"
+  ],
+  "ayun": [
+    "\uaa00\uaa22\uaa2d\uaa46"
+  ],
+  "ayuseh": [
+    "\uaa00\uaa22\uaa2d\uaa27\uaa2e\uaa4d"
+  ],
+  "awlah": [
+    "\uaa00\uaa25\uaa24\uaa4d"
+  ],
+  "aluah": [
+    "\uaa00\uaa24\uaa36\uaa4d"
+  ],
+  "aolah": [
+    "\uaa00\uaa2f\uaa31\uaa24\uaa4d"
+  ],
+  "aiaw": [
+    "\uaa00\uaa33\uaa25"
+  ],
+  "aiew": [
+    "\uaa00\uaa33\uaa2e\uaa25"
+  ],
+  "isa": [
+    "\uaa01\uaa27",
+    "\uaa01\uaa27\uaa29"
+  ],
+  "isalamu": [
+    ""
+  ],
+  "iw": [
+    "\uaa01\uaa25",
+    "\uaa01\uaa2a\uaa25"
+  ],
+  "indanuh": [
+    "\uaa01\uaa46\uaa15\uaa17\uaa2d\uaa4d"
+  ],
+  "in-danuh": [
+    "\uaa01\uaa46\uaa15\uaa17\uaa2d\uaa4d"
+  ],
+  "insaaulah": [
+    "\uaa01\uaa2a\uaa46\uaa27\uaa00\uaa2d\uaa24\uaa4d"
+  ],
+  "insa-aulah": [
+    "\uaa01\uaa2a\uaa46\uaa27\uaa00\uaa2d\uaa24\uaa4d"
+  ],
+  "ilahi": [
+    "\uaa01\uaa24\uaa28\uaa2a",
+    "\uaa01\uaa24\uaa28\uaa2b"
+  ],
+  "u": [
+    "\uaa02",
+    " \uaa02\uaa29"
+  ],
+  "ubah": [
+    "\uaa02\uaa1d\uaa4d"
+  ],
+  "ubhak": [
+    "\uaa02\uaa1e\uaa40"
+  ],
+  "ungak": [
+    "\uaa02\uaa0a\uaa40"
+  ],
+  "udaya": [
+    "\uaa02\uaa15\uaa22",
+    "\uaa02\uaa15\uaa22\uaa29"
+  ],
+  "uh": [
+    "\uaa02\uaa4d"
+  ],
+  "ujut": [
+    "\uaa02\uaa0e\uaa2d\uaa45"
+  ],
+  "uk": [
+    "\uaa02\uaa40"
+  ],
+  "uluma": [
+    "\uaa02\uaa24\uaa2d\uaa1f",
+    "\uaa02\uaa24\uaa2d\uaa20\uaa29"
+  ],
+  "um": [
+    "\uaa00\uaa2d\uaa4c"
+  ],
+  "umar": [
+    "\uaa02\uaa1f\uaa49",
+    "\uaa02\uaa20\uaa49"
+  ],
+  "umarup": [
+    "\uaa02\uaa1f\uaa23\uaa2d\uaa47"
+  ],
+  "umat": [
+    "\uaa02\uaa1f\uaa45",
+    "\uaa02\uaa20\uaa45"
+  ],
+  "umur": [
+    "\uaa02\uaa1f\uaa2d\uaa49"
+  ],
+  "un": [
+    "\uaa02\uaa46"
+  ],
+  "uni": [
+    "\uaa02\uaa17\uaa2a",
+    "\uaa02\uaa17\uaa2b"
+  ],
+  "unta": [
+    "\uaa02\uaa46\uaa13",
+    "\uaa02\uaa46\uaa13\uaa29"
+  ],
+  "unusar": [
+    "\uaa02\uaa17\uaa2d\uaa27\uaa49"
+  ],
+  "uphabhup": [
+    "\uaa02\uaa1c\uaa1e\uaa2d\uaa47"
+  ],
+  "ur": [
+    "\uaa02\uaa49"
+  ],
+  "urai": [
+    "\uaa02\uaa23\uaa30"
+  ],
+  "urei": [
+    "\uaa02\uaa23\uaa2c"
+  ],
+  "urang": [
+    "\uaa02\uaa23\uaa43"
+  ],
+  "urrabhi": [
+    "\uaa02\uaa49\uaa23\uaa1e\uaa2a"
+  ],
+  "uruh": [
+    "\uaa02\uaa23\uaa2d\uaa4d"
+  ],
+  "usa": [
+    "\uaa02\uaa27",
+    "\uaa02\uaa27\uaa29"
+  ],
+  "usmanah": [
+    "\uaa02\uaa4b\uaa1f\uaa17\uaa4d"
+  ],
+  "usman": [
+    "\uaa02\uaa4b\uaa1f\uaa46"
+  ],
+  "usul": [
+    "\uaa02\uaa27\uaa2d\uaa4a"
+  ],
+  "ut": [
+    "\uaa02\uaa45"
+  ],
+  "utar": [
+    "\uaa02\uaa13\uaa49"
+  ],
+  "utmanut": [
+    "\uaa02\uaa45\uaa1f\uaa17\uaa2d\uaa45"
+  ],
+  "utmenut": [
+    "\uaa02\uaa45\uaa1f\uaa2e\uaa17\uaa2d\uaa45"
+  ],
+  "unmanut": [
+    "\uaa02\uaa46\uaa1f\uaa17\uaa2d\uaa45"
+  ],
+  "ung": [
+    "\uaa02\uaa43"
+  ],
+  "uwdhuw": [
+    "\uaa02\uaa25\uaa16\uaa2d\uaa25"
+  ],
+  "uwluah": [
+    "\uaa02\uaa25\uaa24\uaa36\uaa4d"
+  ],
+  "\u00e9": [
+    "\uaa03"
+  ],
+  "\u00e9ng": [
+    "\uaa03\uaa42"
+  ],
+  "\u00e9ngkat": [
+    "\uaa03\uaa42\uaa06\uaa45"
+  ],
+  "\u00e9sa": [
+    "\uaa03\uaa27",
+    "\uaa03\uaa27\uaa29"
+  ],
+  "\u00e9san": [
+    "\uaa03\uaa26\uaa46",
+    "\uaa03\uaa27\uaa46"
+  ],
+  "\u00e9raik": [
+    "\uaa03\uaa23\uaa30\uaa40"
+  ],
+  "\u00e9tha": [
+    "\uaa03\uaa14",
+    "\uaa03\uaa14\uaa29"
+  ],
+  "\u00e9w": [
+    "\uaa03\uaa25"
+  ],
+  "erti": [
+    "\uaa00\uaa2e\uaa49\uaa13\uaa2a"
+  ],
+  "esdhuk": [
+    "\uaa00\uaa2e\uaa4b\uaa16\uaa2d\uaa40"
+  ],
+  "o": [
+    "\uaa05"
+  ],
+  "oh": [
+    "\uaa05\uaa4d"
+  ],
+  "ok": [
+    "\uaa05\uaa40"
+  ],
+  "om": [
+    "\uaa05\uaa4c"
+  ],
+  "omkar": [
+    "\uaa05\uaa4c\uaa06\uaa49"
+  ],
+  "omkara": [
+    "\uaa05\uaa4c\uaa06\uaa23",
+    "\uaa05\uaa4c\uaa06\uaa23\uaa29"
+  ],
+  "ongkar": [
+    "\uaa05\uaa43\uaa06\uaa49"
+  ],
+  "ong": [
+    "\uaa05\uaa43"
+  ],
+  "ot": [
+    "\uaa05\uaa45"
+  ],
+  "ba\u00e2k": [
+    "\uaa1d\uaa00\uaa32\uaa40"
+  ],
+  "ba-\u00e2k": [
+    "\uaa1d\uaa00\uaa32\uaa40"
+  ],
+  "baar": [
+    "\uaa1d\uaa00\uaa49"
+  ],
+  "baraael": [
+    "\uaa1d\uaa23\uaa00\uaa2e\uaa4a"
+  ],
+  "bara-ael": [
+    "\uaa1d\uaa23\uaa00\uaa2e\uaa4a"
+  ],
+  "baaow": [
+    "\uaa1d\uaa00\uaa2f\uaa31\uaa25"
+  ],
+  "ba-aow": [
+    "\uaa1d\uaa00\uaa2f\uaa31\uaa25"
+  ],
+  "ba-ek": [
+    "\uaa1d\uaa00\uaa2e\uaa40"
+  ],
+  "bi-ar": [
+    "\uaa1d\uaa2a\uaa00\uaa49"
+  ],
+  "bi-\u00e2k": [
+    "\uaa1d\uaa2a\uaa00\uaa32\uaa40"
+  ],
+  "bi\u00e2k": [
+    "\uaa1d\uaa2a\uaa00\uaa32\uaa40"
+  ],
+  "caaua": [
+    "\uaa0c\uaa00\uaa36"
+  ],
+  "ca-aua": [
+    "\uaa0c\uaa00\uaa36"
+  ],
+  "cauh": [
+    "\uaa0c\uaa02\uaa4d"
+  ],
+  "ca-uh": [
+    "\uaa0c\uaa02\uaa4d"
+  ],
+  "cahuh": [
+    "\uaa0c\uaa4d\uaa02\uaa4d"
+  ],
+  "cah-uh": [
+    "\uaa0c\uaa4d\uaa02\uaa4d"
+  ],
+  "cam-bu": [
+    "\uaa0c\uaa4c\uaa1d\uaa2d"
+  ],
+  "caki\u00e9r": [
+    "\uaa0c\uaa06\uaa33\uaa2f\uaa2e\uaa49"
+  ],
+  "can-dal": [
+    "\uaa0c\uaa46\uaa15\uaa4a"
+  ],
+  "cambak ": [
+    "\uaa0c\uaa21\uaa40"
+  ],
+  "ca-mbak": [
+    "\uaa0c\uaa21\uaa40"
+  ],
+  "caweiak": [
+    "\uaa0c\uaa25\uaa2c\uaa00\uaa40"
+  ],
+  "cawei-ak": [
+    "\uaa0c\uaa25\uaa2c\uaa00\uaa40"
+  ],
+  "cuiic": [
+    "\uaa0c\uaa36\uaa33\uaa2a\uaa44"
+  ],
+  "da-a": [
+    "\uaa15\uaa00",
+    "\uaa15\uaa00\uaa29"
+  ],
+  "daar": [
+    "\uaa15\uaa00\uaa49"
+  ],
+  "da-ar": [
+    "\uaa15\uaa00\uaa49"
+  ],
+  "dandep": [
+    "\uaa15\uaa19\uaa2e\uaa47 "
+  ],
+  "da-ndep": [
+    "\uaa15\uaa19\uaa2e\uaa47"
+  ],
+  "dabannayah": [
+    "\uaa15\uaa1d\uaa46\uaa17\uaa22\uaa4d"
+  ],
+  "dammbuak": [
+    "\uaa15\uaa4c\uaa21\uaa36\uaa40"
+  ],
+  "dam-mbuak": [
+    "\uaa15\uaa4c\uaa21\uaa36\uaa40"
+  ],
+  "dindana": [
+    "\uaa15\uaa2a\uaa46\uaa15\uaa17"
+  ],
+  "dindan\u00e2": [
+    "\uaa15\uaa2a\uaa46\uaa15\uaa17\uaa32"
+  ],
+  "din-dan\u00e2": [
+    "\uaa15\uaa2a\uaa46\uaa15\uaa17\uaa32"
+  ],
+  "duissak": [
+    "\uaa15\uaa36\uaa2a\uaa4b\uaa26\uaa40"
+  ],
+  "duissa": [
+    "\uaa15\uaa36\uaa2a\uaa4b\uaa26"
+  ],
+  "dulkaidah": [
+    "\uaa15\uaa2d\uaa4a\uaa06\uaa01\uaa15\uaa4d"
+  ],
+  "dulka-idah": [
+    "\uaa15\uaa2d\uaa4a\uaa06\uaa01\uaa15\uaa4d"
+  ],
+  "dun-ya": [
+    "\uaa15\uaa2d\uaa46\uaa22"
+  ],
+  "d\u00e9biya": [
+    "\uaa15\uaa2f\uaa2e\uaa1d\uaa2a\uaa22\uaa29"
+  ],
+  "d\u00e9bata": [
+    "\uaa15\uaa2f\uaa2e\uaa1d\uaa13\uaa29"
+  ],
+  "d\u00e9diya": [
+    "\uaa15\uaa2f\uaa2e\uaa15\uaa2a\uaa22\uaa29"
+  ],
+  "gaal": [
+    "\uaa08\uaa00\uaa4a"
+  ],
+  "ga-al": [
+    "\uaa08\uaa00\uaa4a"
+  ],
+  "gaang": [
+    "\uaa08\uaa00\uaa43"
+  ],
+  "ga-ang": [
+    "\uaa08\uaa00\uaa43"
+  ],
+  "gambak": [
+    "\uaa08\uaa21\uaa40"
+  ],
+  "ga-mbak": [
+    "\uaa08\uaa21\uaa40"
+  ],
+  "ha-aiek": [
+    "\uaa28\uaa00\uaa33\uaa2e\uaa40"
+  ],
+  "haauan": [
+    "\uaa28\uaa00\uaa36\uaa46"
+  ],
+  "ha-auan": [
+    "\uaa28\uaa00\uaa36\uaa46"
+  ],
+  "ha-\u00e9w": [
+    "\uaa28\uaa03\uaa25"
+  ],
+  "ha-il": [
+    "\uaa28\uaa01\uaa4a "
+  ],
+  "hauk": [
+    "\uaa28\uaa00\uaa2d\uaa40"
+  ],
+  "ha-uk": [
+    "\uaa28\uaa00\uaa2d\uaa40"
+  ],
+  "haun": [
+    "\uaa28\uaa02\uaa46  "
+  ],
+  "ha-un": [
+    "\uaa28\uaa02\uaa46"
+  ],
+  "hu\u00e9": [
+    "\uaa28\uaa36\uaa2f\uaa2e"
+  ],
+  "hadiip": [
+    "\uaa28\uaa15\uaa33\uaa2a\uaa47"
+  ],
+  "hindak": [
+    "\uaa28\uaa2a\uaa46\uaa15\uaa40"
+  ],
+  "hin-dak": [
+    "\uaa28\uaa2a\uaa46\uaa15\uaa40"
+  ],
+  "hin-din": [
+    "\uaa28\uaa2a\uaa46\uaa15\uaa2a\uaa46"
+  ],
+  "jaar": [
+    "\uaa0e\uaa00\uaa49"
+  ],
+  "ja-ar": [
+    "\uaa0e\uaa00\uaa49"
+  ],
+  "jalaauec": [
+    "\uaa0e\uaa24\uaa00\uaa36\uaa2e\uaa44"
+  ],
+  "jala-auec": [
+    "\uaa0e\uaa24\uaa00\uaa36\uaa2e\uaa44"
+  ],
+  "jamaah": [
+    "\uaa0e\uaa1f\uaa00\uaa4d"
+  ],
+  "jama-ah": [
+    "\uaa0e\uaa1f\uaa00\uaa4d"
+  ],
+  "jamaat": [
+    "\uaa0e\uaa1f\uaa00\uaa45"
+  ],
+  "jama-at": [
+    "\uaa0e\uaa1f\uaa00\uaa45"
+  ],
+  "jumat": [
+    "\uaa0e\uaa2d\uaa4c\uaa00\uaa45"
+  ],
+  "jum-at": [
+    "\uaa0e\uaa2d\uaa4c\uaa00\uaa45"
+  ],
+  "jumma-at": [
+    "\uaa0e\uaa2d\uaa4c\uaa1f\uaa00\uaa45"
+  ],
+  "jam-bu": [
+    "\uaa0e\uaa4c\uaa1d\uaa2d"
+  ],
+  "kaaek": [
+    "\uaa06\uaa00\uaa2e\uaa40"
+  ],
+  "ka-aek": [
+    "\uaa06\uaa00\uaa2e\uaa40"
+  ],
+  "ka-ing": [
+    "\uaa06\uaa01\uaa2a\uaa42"
+  ],
+  "ka-it": [
+    "\uaa06\uaa01\uaa2a\uaa45"
+  ],
+  "kan-dali": [
+    "\uaa06\uaa46\uaa15\uaa24\uaa2b"
+  ],
+  "kan-diya": [
+    "\uaa06\uaa46\uaa15\uaa2a\uaa22"
+  ],
+  "kananda": [
+    "\uaa06\uaa18\uaa19"
+  ],
+  "kana-nda": [
+    "\uaa06\uaa18\uaa19"
+  ],
+  "la-a": [
+    "\uaa24\uaa00"
+  ],
+  "li-a": [
+    "\uaa24\uaa2a\uaa00"
+  ],
+  "laaeh": [
+    "\uaa24\uaa00\uaa2e\uaa4d"
+  ],
+  "la-aeh": [
+    "\uaa24\uaa00\uaa2e\uaa4d"
+  ],
+  "laai": [
+    "\uaa24\uaa04"
+  ],
+  "la-ai": [
+    "\uaa24\uaa04"
+  ],
+  "laan": [
+    "\uaa24\uaa00\uaa46"
+  ],
+  "la-an": [
+    "\uaa24\uaa00\uaa46"
+  ],
+  "laang": [
+    "\uaa24\uaa00\uaa43"
+  ],
+  "la-ang": [
+    "\uaa24\uaa00\uaa43"
+  ],
+  "laaow": [
+    "\uaa24\uaa00\uaa2f\uaa31\uaa25"
+  ],
+  "la-aow": [
+    "\uaa24\uaa00\uaa2f\uaa31\uaa25"
+  ],
+  "liaow": [
+    "\uaa24\uaa2a\uaa00\uaa2f\uaa31\uaa25"
+  ],
+  "li-aow": [
+    "\uaa24\uaa2a\uaa00\uaa2f\uaa31\uaa25"
+  ],
+  "laaua": [
+    "\uaa24\uaa00\uaa36"
+  ],
+  "la-aua": [
+    "\uaa24\uaa00\uaa36"
+  ],
+  "li-aua": [
+    "\uaa24\uaa2a\uaa00\uaa36\uaa29"
+  ],
+  "laauec": [
+    "\uaa24\uaa00\uaa36\uaa2e\uaa44"
+  ],
+  "la-auec": [
+    "\uaa24\uaa00\uaa36\uaa2e\uaa44"
+  ],
+  "laauey": [
+    "\uaa24\uaa00\uaa36\uaa2e\uaa48"
+  ],
+  "la-auey": [
+    "\uaa24\uaa00\uaa36\uaa2e\uaa48"
+  ],
+  "laauoy": [
+    "\uaa24\uaa00\uaa36\uaa2f\uaa48"
+  ],
+  "la-auoy": [
+    "\uaa24\uaa00\uaa36\uaa2f\uaa48"
+  ],
+  "laaung": [
+    "\uaa24\uaa00\uaa2d\uaa42"
+  ],
+  "la-aung": [
+    "\uaa24\uaa00\uaa2d\uaa42"
+  ],
+  "la-eh": [
+    "\uaa24\uaa00\uaa2e\uaa4d"
+  ],
+  "maaia": [
+    "\uaa1f\uaa00\uaa33"
+  ],
+  "ma-aia": [
+    "\uaa1f\uaa00\uaa33",
+    "\uaa1f\uaa00\uaa33\uaa29"
+  ],
+  "maaih": [
+    "\uaa1f\uaa00\uaa30\uaa4d"
+  ],
+  "ma-aih": [
+    "\uaa1f\uaa00\uaa30\uaa4d"
+  ],
+  "maah": [
+    "\uaa1f\uaa00\uaa4d  "
+  ],
+  "ma-ah": [
+    "\uaa1f\uaa00\uaa4d"
+  ],
+  "maak": [
+    "\uaa1f\uaa00\uaa40"
+  ],
+  "ma-ak": [
+    "\uaa1f\uaa00\uaa40"
+  ],
+  "ma-\u00e2k": [
+    "\uaa1f\uaa00\uaa32\uaa40"
+  ],
+  "maaom": [
+    "\uaa1f\uaa00\uaa2f\uaa31\uaa4c"
+  ],
+  "ma-aom": [
+    "\uaa1f\uaa00\uaa2f\uaa31\uaa4c"
+  ],
+  "maanit": [
+    "\uaa1f\uaa00\uaa17\uaa2a\uaa45"
+  ],
+  "ma-anit": [
+    "\uaa1f\uaa00\uaa17\uaa2a\uaa45"
+  ],
+  "ma-ih": [
+    "\uaa1f\uaa01\uaa2a\uaa4d"
+  ],
+  "ma-ik": [
+    "\uaa1f\uaa01\uaa2a\uaa40"
+  ],
+  "ma-in": [
+    "\uaa1f\uaa01\uaa2a\uaa46"
+  ],
+  "pak": [
+    "\uaa1a\uaa40",
+    "\uaa1b\uaa29\uaa40"
+  ],
+  "paabih": [
+    "\uaa1a\uaa00\uaa1d\uaa2a\uaa4d"
+  ],
+  "pa-abih": [
+    "\uaa1a\uaa00\uaa1d\uaa2a\uaa4d"
+  ],
+  "paac": [
+    "\uaa1b\uaa29\uaa00\uaa44"
+  ],
+  "pa-ac": [
+    "\uaa1b\uaa29\uaa00\uaa44"
+  ],
+  "paadac": [
+    "\uaa1b\uaa29\uaa00\uaa15\uaa44"
+  ],
+  "pa-adac": [
+    "\uaa1b\uaa29\uaa00\uaa15\uaa44"
+  ],
+  "paadar": [
+    "\uaa1b\uaa29\uaa00\uaa15\uaa49"
+  ],
+  "pa-adar": [
+    "\uaa1b\uaa29\uaa00\uaa15\uaa49"
+  ],
+  "paaek": [
+    "\uaa1a\uaa00\uaa2e\uaa40"
+  ],
+  "pa-aek": [
+    "\uaa1a\uaa00\uaa2e\uaa40"
+  ],
+  "paaen": [
+    "\uaa1a\uaa00\uaa2e\uaa46"
+  ],
+  "pa-aen": [
+    "\uaa1a\uaa00\uaa2e\uaa46"
+  ],
+  "paaep": [
+    "\uaa1a\uaa00\uaa2e\uaa47"
+  ],
+  "pa-aep": [
+    "\uaa1a\uaa00\uaa2e\uaa47"
+  ],
+  "paaih": [
+    "\uaa1b\uaa29\uaa04\uaa30\uaa4d"
+  ],
+  "pa-aih": [
+    "\uaa1b\uaa29\uaa04\uaa30\uaa4d"
+  ],
+  "paaoh": [
+    "\uaa1b\uaa29\uaa00\uaa2f\uaa31\uaa4d"
+  ],
+  "pa-aoh": [
+    "\uaa1b\uaa29\uaa00\uaa2f\uaa31\uaa4d"
+  ],
+  "paain": [
+    "\uaa1a\uaa04\uaa30\uaa46"
+  ],
+  "pa-ain": [
+    "\uaa1a\uaa04\uaa30\uaa46"
+  ],
+  "paak": [
+    "\uaa1a\uaa00\uaa40"
+  ],
+  "pa-ak": [
+    "\uaa1a\uaa00\uaa40"
+  ],
+  "paalah": [
+    "\uaa1a\uaa00\uaa24\uaa4d"
+  ],
+  "pa-alah": [
+    "\uaa1a\uaa00\uaa24\uaa4d"
+  ],
+  "paamaoh": [
+    "\uaa1a\uaa00\uaa1f\uaa2f\uaa31\uaa4d"
+  ],
+  "pa-amaoh": [
+    "\uaa1a\uaa00\uaa1f\uaa2f\uaa31\uaa4d"
+  ],
+  "paamrak": [
+    "\uaa1a\uaa00\uaa1f\uaa34\uaa40"
+  ],
+  "pa-amrak": [
+    "\uaa1a\uaa00\uaa1f\uaa34\uaa40"
+  ],
+  "paamiek": [
+    "\uaa1a\uaa00\uaa1f\uaa33\uaa2e\uaa40"
+  ],
+  "pa-amiek": [
+    "\uaa1a\uaa00\uaa1f\uaa33\uaa2e\uaa40"
+  ],
+  "paan": [
+    "\uaa1a\uaa00\uaa46"
+  ],
+  "pa-an": [
+    "\uaa1a\uaa00\uaa46"
+  ],
+  "paanaih": [
+    "\uaa1a\uaa00\uaa17\uaa30\uaa4d"
+  ],
+  "pa-anaih": [
+    "\uaa1a\uaa00\uaa17\uaa30\uaa4d"
+  ],
+  "paang": [
+    "\uaa1a\uaa00\uaa43"
+  ],
+  "pa-ang": [
+    "\uaa1a\uaa00\uaa43"
+  ],
+  "paang\u00e2k": [
+    "\uaa1b\uaa29\uaa00\uaa0a\uaa32\uaa40"
+  ],
+  "pa-ang\u00e2k": [
+    "\uaa1b\uaa29\uaa00\uaa0a\uaa32\uaa40"
+  ],
+  "paangek": [
+    "\uaa1b\uaa29\uaa00\uaa0a\uaa2e\uaa40"
+  ],
+  "pa-angek": [
+    "\uaa1b\uaa29\uaa00\uaa0a\uaa2e\uaa40"
+  ],
+  "paanguei": [
+    "\uaa1b\uaa29\uaa00\uaa0a\uaa36\uaa2c"
+  ],
+  "pa-anguei": [
+    "\uaa1b\uaa29\uaa00\uaa0a\uaa36\uaa2c"
+  ],
+  "paanit": [
+    "\uaa1b\uaa29\uaa00\uaa17\uaa2a\uaa45"
+  ],
+  "pa-anit": [
+    "\uaa1b\uaa29\uaa00\uaa17\uaa2a\uaa45"
+  ],
+  "paaoc": [
+    "\uaa1a\uaa00\uaa2f\uaa44"
+  ],
+  "pa-aoc": [
+    "\uaa1a\uaa00\uaa2f\uaa44"
+  ],
+  "paaok": [
+    "\uaa1a\uaa00\uaa2f\uaa31\uaa40"
+  ],
+  "pa-aok": [
+    "\uaa1a\uaa00\uaa2f\uaa31\uaa40"
+  ],
+  "paaor": [
+    "\uaa1a\uaa00\uaa2f\uaa31\uaa49"
+  ],
+  "pa-aor": [
+    "\uaa1a\uaa00\uaa2f\uaa31\uaa49"
+  ],
+  "paarep": [
+    "\uaa1b\uaa29\uaa00\uaa23\uaa2e\uaa47"
+  ],
+  "pa-arep": [
+    "\uaa1b\uaa29\uaa00\uaa23\uaa2e\uaa47"
+  ],
+  "paasit": [
+    "\uaa1b\uaa29\uaa00\uaa26\uaa2a\uaa45"
+  ],
+  "pa-asit": [
+    "\uaa1b\uaa29\uaa00\uaa26\uaa2a\uaa45"
+  ],
+  "paatah": [
+    "\uaa1a\uaa00\uaa13\uaa4d"
+  ],
+  "pa-atah": [
+    "\uaa1a\uaa00\uaa13\uaa4d"
+  ],
+  "paataong": [
+    "\uaa1a\uaa00\uaa13\uaa2f\uaa31\uaa43"
+  ],
+  "pa-ataong": [
+    "\uaa1a\uaa00\uaa13\uaa2f\uaa31\uaa43"
+  ],
+  "paathah": [
+    "\uaa1b\uaa29\uaa00\uaa14\uaa4d"
+  ],
+  "pa-athah": [
+    "\uaa1b\uaa29\uaa00\uaa14\uaa4d"
+  ],
+  "paathur": [
+    "\uaa1b\uaa29\uaa00\uaa14\uaa2d\uaa49"
+  ],
+  "pa-athur": [
+    "\uaa1b\uaa29\uaa00\uaa14\uaa2d\uaa49"
+  ],
+  "paauen": [
+    "\uaa1a\uaa00\uaa36\uaa2e\uaa46"
+  ],
+  "pa-auen": [
+    "\uaa1a\uaa00\uaa36\uaa2e\uaa46"
+  ],
+  "paawait": [
+    "\uaa1a\uaa00\uaa25\uaa30\uaa45"
+  ],
+  "pa-await": [
+    "\uaa1a\uaa00\uaa25\uaa30\uaa45"
+  ],
+  "pa-awan": [
+    "\uaa1b\uaa29\uaa00\uaa25\uaa46"
+  ],
+  "pa\u00e9ng": [
+    "\uaa1a\uaa03\uaa42"
+  ],
+  "pa-\u00e9ng": [
+    "\uaa1a\uaa03\uaa42"
+  ],
+  "pakaow": [
+    "\uaa1b\uaa29\uaa06\uaa2f\uaa31\uaa25"
+  ],
+  "pa-kaow": [
+    "\uaa1b\uaa29\uaa06\uaa2f\uaa31\uaa25"
+  ],
+  "pakheng": [
+    "\uaa1b\uaa29\uaa07\uaa2e\uaa43"
+  ],
+  "pa-kheng": [
+    "\uaa1b\uaa29\uaa07\uaa2e\uaa43"
+  ],
+  "pambac": [
+    "\uaa1b\uaa29\uaa21\uaa44"
+  ],
+  "pa-mbac": [
+    "\uaa1b\uaa29\uaa21\uaa44"
+  ],
+  "pambaik": [
+    "\uaa1a\uaa21\uaa30\uaa40"
+  ],
+  "pa-mbaik": [
+    "\uaa1a\uaa21\uaa30\uaa40"
+  ],
+  "pambak": [
+    "\uaa1b\uaa29\uaa21\uaa40"
+  ],
+  "pa-mbak": [
+    "\uaa1b\uaa29\uaa21\uaa40"
+  ],
+  "pambaong": [
+    "\uaa1b\uaa29 \uaa21\uaa2f\uaa31\uaa42"
+  ],
+  "pa-mbaong": [
+    "\uaa1b\uaa29 \uaa21\uaa2f\uaa31\uaa42"
+  ],
+  "pambata": [
+    "\uaa1a\uaa21\uaa13"
+  ],
+  "pa-mbata": [
+    "\uaa1a\uaa21\uaa13"
+  ],
+  "pambeng": [
+    "\uaa1b\uaa29\uaa21\uaa2e\uaa43"
+  ],
+  "pa-mbeng": [
+    "\uaa1b\uaa29\uaa21\uaa2e\uaa43"
+  ],
+  "pamber": [
+    "\uaa1b\uaa29\uaa21\uaa2e\uaa49"
+  ],
+  "pa-mber": [
+    "\uaa1b\uaa29\uaa21\uaa2e\uaa49"
+  ],
+  "pambiah": [
+    "\uaa1b\uaa29\uaa21\uaa33\uaa4d"
+  ],
+  "pa-mbiah": [
+    "\uaa1b\uaa29\uaa21\uaa33\uaa4d"
+  ],
+  "pamblang": [
+    "\uaa1a\uaa21\uaa35\uaa43"
+  ],
+  "pa-mblang": [
+    "\uaa1a\uaa21\uaa35\uaa43"
+  ],
+  "pamblaow": [
+    "\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa25"
+  ],
+  "pa-mblaow": [
+    "\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa25"
+  ],
+  "pamblom": [
+    "\uaa1b\uaa29 \uaa21\uaa35\uaa2f\uaa4c"
+  ],
+  "pa-mblom": [
+    "\uaa1b\uaa29 \uaa21\uaa35\uaa2f\uaa4c"
+  ],
+  "pamblong": [
+    "\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa42"
+  ],
+  "pa-mblong": [
+    "\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa42"
+  ],
+  "pamblaong": [
+    "\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa43"
+  ],
+  "pa-mblaong": [
+    "\uaa1b\uaa29\uaa21\uaa35\uaa2f\uaa31\uaa43"
+  ],
+  "pambluak": [
+    "\uaa1a\uaa21\uaa35\uaa36\uaa40"
+  ],
+  "pa-mbluak": [
+    "\uaa1a\uaa21\uaa35\uaa36\uaa40"
+  ],
+  "pamboh": [
+    "\uaa1a\uaa21\uaa2f\uaa4d"
+  ],
+  "pa-mboh": [
+    "\uaa1a\uaa21\uaa2f\uaa4d"
+  ],
+  "pambong": [
+    "\uaa1a\uaa21\uaa2f\uaa42"
+  ],
+  "pa-mbong": [
+    "\uaa1a\uaa21\uaa2f\uaa42"
+  ],
+  "pambruak": [
+    "\uaa1a\uaa21\uaa34\uaa36\uaa40"
+  ],
+  "pa-mbruak": [
+    "\uaa1a\uaa21\uaa34\uaa36\uaa40"
+  ],
+  "pambuk": [
+    "\uaa1a\uaa21\uaa2d\uaa40"
+  ],
+  "pa-mbuk": [
+    "\uaa1a\uaa21\uaa2d\uaa40"
+  ],
+  "pambuw": [
+    "\uaa1b\uaa29\uaa21\uaa2d\uaa25"
+  ],
+  "pa-mbuw": [
+    "\uaa1b\uaa29\uaa21\uaa2d\uaa25"
+  ],
+  "pamudah": [
+    "\uaa1a\uaa1f\uaa2d\uaa15\uaa4d"
+  ],
+  "pa-mudah": [
+    "\uaa1a\uaa1f\uaa2d\uaa15\uaa4d"
+  ],
+  "pandaih": [
+    "\uaa1b\uaa29\uaa19\uaa30\uaa4d"
+  ],
+  "pa-ndaih": [
+    "\uaa1b\uaa29\uaa19\uaa30\uaa4d"
+  ],
+  "pandaing": [
+    "\uaa1a\uaa19\uaa30\uaa42"
+  ],
+  "pa-ndaing": [
+    "\uaa1a\uaa19\uaa30\uaa42"
+  ],
+  "pandak": [
+    "\uaa1a\uaa19\uaa40"
+  ],
+  "pa-ndak": [
+    "\uaa1a\uaa19\uaa40"
+  ],
+  "pandan": [
+    "\uaa1a\uaa19\uaa46"
+  ],
+  "pa-ndan": [
+    "\uaa1a\uaa19\uaa46"
+  ],
+  "pandang": [
+    "\uaa1a\uaa19\uaa43"
+  ],
+  "pa-ndang": [
+    "\uaa1a\uaa19\uaa43"
+  ],
+  "pandao": [
+    "\uaa1a\uaa19\uaa2f\uaa31"
+  ],
+  "pa-ndao": [
+    "\uaa1a\uaa19\uaa2f\uaa31"
+  ],
+  "pandaw": [
+    "\uaa1a\uaa19\uaa25"
+  ],
+  "pa-ndaw": [
+    "\uaa1a\uaa19\uaa25"
+  ],
+  "pandaoh": [
+    "\uaa1a\uaa19\uaa2f\uaa31\uaa4d"
+  ],
+  "pa-ndaoh": [
+    "\uaa1a\uaa19\uaa2f\uaa31\uaa4d"
+  ],
+  "pandap": [
+    "\uaa1a\uaa19\uaa47"
+  ],
+  "pa-ndap": [
+    "\uaa1a\uaa19\uaa47"
+  ],
+  "pandat": [
+    "\uaa1a\uaa19\uaa45"
+  ],
+  "pa-ndat": [
+    "\uaa1a\uaa19\uaa45"
+  ],
+  "pandek": [
+    "\uaa1a\uaa19\uaa2e\uaa40"
+  ],
+  "pa-ndek": [
+    "\uaa1a\uaa19\uaa2e\uaa40"
+  ],
+  "pandem": [
+    "\uaa1a\uaa19\uaa2e\uaa4c"
+  ],
+  "pa-ndem": [
+    "\uaa1a\uaa19\uaa2e\uaa4c"
+  ],
+  "pandam": [
+    "\uaa1a\uaa19\uaa4c"
+  ],
+  "pa-ndam": [
+    "\uaa1a\uaa19\uaa4c"
+  ],
+  "pander": [
+    "\uaa1a\uaa19\uaa2e\uaa49"
+  ],
+  "pa-nder": [
+    "\uaa1a\uaa19\uaa2e\uaa49"
+  ],
+  "pandar": [
+    "\uaa1a\uaa19\uaa49"
+  ],
+  "pa-ndar": [
+    "\uaa1a\uaa19\uaa49"
+  ],
+  "pandiak": [
+    "\uaa1a\uaa19\uaa33\uaa40"
+  ],
+  "pa-ndiak": [
+    "\uaa1a\uaa19\uaa33\uaa40"
+  ],
+  "pandi\u00e9": [
+    "\uaa1a\uaa2f\uaa19\uaa33\uaa2e"
+  ],
+  "pa-ndi\u00e9": [
+    "\uaa1a\uaa2f\uaa19\uaa33\uaa2e"
+  ],
+  "pandiek": [
+    "\uaa1a\uaa19\uaa33\uaa2e\uaa40"
+  ],
+  "pa-ndiek": [
+    "\uaa1a\uaa19\uaa33\uaa2e\uaa40"
+  ],
+  "pandih": [
+    "\uaa1a\uaa19\uaa2a\uaa4d"
+  ],
+  "pa-ndih": [
+    "\uaa1a\uaa19\uaa2a\uaa4d"
+  ],
+  "pandik": [
+    "\uaa1a\uaa19\uaa2a\uaa40"
+  ],
+  "pa-ndik": [
+    "\uaa1a\uaa19\uaa2a\uaa40"
+  ],
+  "pandit": [
+    "\uaa1a\uaa19\uaa2a\uaa45"
+  ],
+  "pa-ndit": [
+    "\uaa1a\uaa19\uaa2a\uaa45"
+  ],
+  "pandoc": [
+    "\uaa1a\uaa19\uaa2f\uaa44"
+  ],
+  "pa-ndoc": [
+    "\uaa1a\uaa19\uaa2f\uaa44"
+  ],
+  "pandok": [
+    "\uaa1a\uaa19\uaa2f\uaa40"
+  ],
+  "pa-ndok": [
+    "\uaa1a\uaa19\uaa2f\uaa40"
+  ],
+  "pandong": [
+    "\uaa1b\uaa29\uaa19\uaa2f\uaa42"
+  ],
+  "pa-ndong": [
+    "\uaa1b\uaa29\uaa19\uaa2f\uaa42"
+  ],
+  "pandua": [
+    "\uaa1b\uaa29\uaa19\uaa36"
+  ],
+  "pa-ndua": [
+    "\uaa1b\uaa29\uaa19\uaa36"
+  ],
+  "panduec": [
+    "\uaa1a\uaa19\uaa36\uaa2e\uaa44"
+  ],
+  "pa-nduec": [
+    "\uaa1a\uaa19\uaa36\uaa2e\uaa44"
+  ],
+  "panduen": [
+    "\uaa1a\uaa19\uaa36\uaa2e\uaa46"
+  ],
+  "pa-nduen": [
+    "\uaa1a\uaa19\uaa36\uaa2e\uaa46"
+  ],
+  "pangan": [
+    "\uaa1b\uaa29\uaa0b\uaa46"
+  ],
+  "pa-ngan": [
+    "\uaa1b\uaa29\uaa0b\uaa46"
+  ],
+  "panjak": [
+    "\uaa1a\uaa12\uaa40"
+  ],
+  "pa-njak": [
+    "\uaa1a\uaa12\uaa40"
+  ],
+  "panjep": [
+    "\uaa1a\uaa12\uaa2e\uaa47"
+  ],
+  "pa-njep": [
+    "\uaa1a\uaa12\uaa2e\uaa47"
+  ],
+  "panjer": [
+    "\uaa1b\uaa29\uaa12\uaa2e\uaa49"
+  ],
+  "pa-njer": [
+    "\uaa1b\uaa29\uaa12\uaa2e\uaa49"
+  ],
+  "raka-ah": [
+    "\uaa23\uaa06\uaa00\uaa4d"
+  ],
+  "resbaa": [
+    "\uaa23\uaa2e\uaa4b\uaa1d\uaa00"
+  ],
+  "resba-a": [
+    "\uaa23\uaa2e\uaa4b\uaa1d\uaa00"
+  ],
+  "ranja": [
+    "\uaa23\uaa12",
+    "\uaa23\uaa12\uaa29"
+  ],
+  "ra-nja": [
+    "\uaa23\uaa12",
+    "\uaa23\uaa12\uaa29"
+  ],
+  "ra-u": [
+    "\uaa23\uaa02\uaa29"
+  ],
+  "ratha": [
+    "\uaa23\uaa14",
+    "\uaa23\uaa14\uaa29"
+  ],
+  "risa": [
+    "\uaa23\uaa2a\uaa27",
+    "\uaa23\uaa2a\uaa27\uaa29"
+  ],
+  "rasa": [
+    "\uaa23\uaa27",
+    "\uaa23\uaa27\uaa29"
+  ],
+  "rusa": [
+    "\uaa23\uaa2d\uaa27",
+    "\uaa23\uaa2d\uaa27\uaa29"
+  ],
+  "ratuh": [
+    "\uaa23\uaa29\uaa13\uaa2d\uaa4d"
+  ],
+  "saai": [
+    "\uaa26\uaa04\uaa30"
+  ],
+  "sa-ai": [
+    "\uaa26\uaa04\uaa30"
+  ],
+  "saaon": [
+    "\uaa27\uaa00\uaa2f\uaa46"
+  ],
+  "sa-aon": [
+    "\uaa27\uaa00\uaa2f\uaa46"
+  ],
+  "saasi": [
+    "\uaa27\uaa00\uaa27\uaa2b"
+  ],
+  "sa-asi": [
+    "\uaa27\uaa00\uaa27\uaa2b"
+  ],
+  "suaon": [
+    "\uaa27\uaa2d\uaa01\uaa2f\uaa46"
+  ],
+  "su-aon": [
+    "\uaa27\uaa2d\uaa01\uaa2f\uaa46"
+  ],
+  "thuaon": [
+    "\uaa14\uaa2d\uaa01\uaa2f\uaa46"
+  ],
+  "thu-aon": [
+    "\uaa14\uaa2d\uaa01\uaa2f\uaa46"
+  ],
+  "suuh": [
+    "\uaa27\uaa2d\uaa02\uaa4d"
+  ],
+  "su-uh": [
+    "\uaa27\uaa2d\uaa02\uaa4d  "
+  ],
+  "suuk": [
+    "\uaa27\uaa2d\uaa02\uaa40"
+  ],
+  "su-uk": [
+    "\uaa27\uaa2d\uaa02\uaa40"
+  ],
+  "saratuh": [
+    "\uaa27\uaa23\uaa29\uaa13\uaa2d\uaa4d"
+  ],
+  "sa-ir": [
+    "\uaa27\uaa00\uaa29\uaa49"
+  ],
+  "san-dhan": [
+    "\uaa27\uaa46\uaa16\uaa46"
+  ],
+  "saamak": [
+    "\uaa27\uaa00\uaa20\uaa40"
+  ],
+  "sa-amak": [
+    "\uaa27\uaa00\uaa20\uaa40"
+  ],
+  "si-nda": [
+    "\uaa27\uaa2a\uaa19",
+    "\uaa27\uaa2a\uaa19\uaa29"
+  ],
+  "suk": [
+    "\uaa26\uaa2d\uaa40"
+  ],
+  "ti": [
+    "\uaa13\uaa2a",
+    "\uaa13\uaa2b"
+  ],
+  "tia": [
+    "\uaa13\uaa33",
+    "\uaa13\uaa33\uaa29"
+  ],
+  "taaiak": [
+    "\uaa13\uaa00\uaa33\uaa40"
+  ],
+  "ta-aiak": [
+    "\uaa13\uaa00\uaa33\uaa40"
+  ],
+  "taala": [
+    "\uaa13\uaa00\uaa24",
+    "\uaa13\uaa00\uaa24\uaa29"
+  ],
+  "ta-ala": [
+    "\uaa13\uaa00\uaa24",
+    "\uaa13\uaa00\uaa24\uaa29 "
+  ],
+  "taamak": [
+    "\uaa13\uaa00\uaa20\uaa40"
+  ],
+  "ta-amak": [
+    "\uaa13\uaa00\uaa20\uaa40"
+  ],
+  "thaamak": [
+    "\uaa14\uaa00\uaa20\uaa40"
+  ],
+  "tha-amak": [
+    "\uaa14\uaa00\uaa20\uaa40"
+  ],
+  "taamrak": [
+    "\uaa13\uaa00\uaa20\uaa34\uaa40"
+  ],
+  "ta-amrak": [
+    "\uaa13\uaa00\uaa20\uaa34\uaa40"
+  ],
+  "taamau": [
+    "\uaa13\uaa00\uaa1f\uaa2e\uaa2d"
+  ],
+  "ta-amau": [
+    "\uaa13\uaa00\uaa1f\uaa2e\uaa2d"
+  ],
+  "taaong": [
+    "\uaa00\uaa2f\uaa31\uaa43"
+  ],
+  "ta-aong": [
+    "\uaa13\uaa00\uaa2f\uaa31\uaa43"
+  ],
+  "taat": [
+    "\uaa13\uaa00\uaa45"
+  ],
+  "ta-at": [
+    "\uaa13\uaa00\uaa45"
+  ],
+  "taayuh": [
+    "\uaa13\uaa00\uaa0e\uaa2d\uaa4d"
+  ],
+  "ta-ayuh": [
+    "\uaa13\uaa00\uaa0e\uaa2d\uaa4d"
+  ],
+  "tapa": [
+    "\uaa13\uaa1a",
+    "\uaa13\uaa1a\uaa29"
+  ],
+  "teng-o": [
+    "\uaa13\uaa2e\uaa43\uaa05\uaa29"
+  ],
+  "thaun": [
+    "\uaa14\uaa02\uaa46"
+  ],
+  "tha-un": [
+    "\uaa14\uaa02\uaa46"
+  ],
+  "tha-\u00e2n": [
+    "\uaa14\uaa00\uaa32\uaa46"
+  ],
+  "tisapatih": [
+    "\uaa13\uaa2a\uaa26\uaa1a\uaa13\uaa2a\uaa4d"
+  ],
+  "tipa": [
+    "\uaa13\uaa2a\uaa1b\uaa29"
+  ],
+  "tipajh\u00e2y": [
+    "\uaa13\uaa2a\uaa1b\uaa29\uaa0f\uaa32\uaa48"
+  ],
+  "yo": [
+    "\uaa22\uaa2f",
+    "\uaa22\uaa2f\uaa29"
+  ],
+  "yok": [
+    "\uaa22\uaa2f\uaa40"
+  ],
+  "yoraka": [
+    "\uaa22\uaa2f\uaa23\uaa06",
+    "\uaa22\uaa2f\uaa23\uaa06\uaa29"
+  ],
+  "wak": [
+    "\uaa25\uaa40",
+    "\uaa25\uaa29\uaa40"
+  ],
+  "campa": [
+    "\uaa0c\uaa4c\uaa1b\uaa29"
+  ],
+  "malithit": [
+    "\uaa1f\uaa24\uaa2a\uaa14\uaa2a\uaa45"
+  ],
+  "panduranga ": [
+    "\uaa1b\uaa2e\uaa29\uaa15\uaa2d\uaa23\uaa43\uaa08"
+  ],
+  "pandarang": [
+    "\uaa1b\uaa2e\uaa29\uaa15\uaa23\uaa43",
+    "\uaa1b\uaa43\uaa15\uaa23\uaa43"
+  ],
+  "pangdarang": [
+    "\uaa1b\uaa2e\uaa29\uaa15\uaa23\uaa43",
+    "\uaa1b\uaa43\uaa15\uaa23\uaa43"
+  ],
+  "kauthara": [
+    "\uaa06\uaa2e\uaa2d\uaa14\uaa23"
+  ],
+  "aia ru": [
+    " \uaa00\uaa33 \uaa23\uaa2d",
+    " \uaa00\uaa33\uaa29 \uaa23\uaa2d\uaa29"
+  ],
+  "aia trang": [
+    "\uaa00\uaa33 \uaa13\uaa34\uaa43",
+    "\uaa00\uaa33\uaa29 \uaa13\uaa34\uaa43"
+  ],
+  "wijaya ": [
+    "\uaa25\uaa2a\uaa0e\uaa22"
+  ],
+  "amarawati ": [
+    "\uaa00\uaa29\uaa1f\uaa23\uaa25\uaa13\uaa2a"
+  ],
+  "simhapura": [
+    "\uaa27\uaa2a\uaa4c\uaa28\uaa1a\uaa2d\uaa23"
+  ],
+  "indrapura": [
+    "\uaa01\uaa46\uaa15\uaa34\uaa1a\uaa2d\uaa23"
+  ],
+  "som": [
+    "\uaa27\uaa2f\uaa4c"
+  ],
+  "but": [
+    "\uaa1d\uaa2d\uaa45"
+  ],
+  "jip": [
+    "\uaa0e\uaa2a\uaa47"
+  ],
+  "sanacar": [
+    "\uaa27\uaa17\uaa0c\uaa49"
+  ],
+  "takuh": [
+    "\uaa13\uaa06\uaa2d\uaa4d"
+  ],
+  "kabaw": [
+    "\uaa06\uaa1d\uaa25"
+  ],
+  "rimaong": [
+    "\uaa23\uaa2a\uaa1f\uaa2f\uaa31\uaa43"
+  ],
+  "tapay": [
+    "\uaa13\uaa1b\uaa29\uaa48"
+  ],
+  "ina": [
+    "\uaa01\uaa17",
+    "\uaa01\uaa17\uaa29"
+  ],
+  "in\u00e2": [
+    "\uaa01\uaa17\uaa32",
+    "\uaa01\uaa17\uaa32\uaa29"
+  ],
+  "girai": [
+    "\uaa08\uaa2a\uaa23\uaa30"
+  ],
+  "ula ": [
+    "\uaa02\uaa24 ",
+    "\uaa02\uaa24\uaa29"
+  ],
+  "pabaiy": [
+    "\uaa1a\uaa1d\uaa30\uaa48"
+  ],
+  "kra": [
+    "\uaa06\uaa34\uaa29"
+  ],
+  "manuk": [
+    "\uaa1f\uaa17\uaa2d\uaa40"
+  ],
+  "asau": [
+    "\uaa00\uaa27\uaa2e\uaa2d"
+  ],
+  "pabuei": [
+    "\uaa1a\uaa1d\uaa36\uaa2c"
+  ],
+  "tangin": [
+    "\uaa13\uaa0a\uaa2a\uaa46"
+  ],
+  "rup": [
+    "\uaa23\uaa2d\uaa47"
+  ],
+  "takai": [
+    "\uaa13\uaa06\uaa30"
+  ],
+  "dhei": [
+    "\uaa16\uaa2c"
+  ],
+  "mbuk": [
+    "\uaa21\uaa2d\uaa40"
+  ],
+  "tangi": [
+    "\uaa13\uaa0a\uaa2a",
+    "\uaa13\uaa0a\uaa2b"
+  ],
+  "pabah": [
+    "\uaa1a\uaa1d\uaa4d"
+  ],
+  "kang": [
+    "\uaa06\uaa43"
+  ],
+  "mata": [
+    "\uaa1f\uaa13",
+    "\uaa1f\uaa13\uaa29"
+  ],
+  "m\u00e2ta": [
+    "\uaa1f\uaa32\uaa13",
+    "\uaa1f\uaa32\uaa13\uaa29"
+  ],
+  "takuai": [
+    "\uaa13\uaa06\uaa36\uaa30"
+  ],
+  "tarakaong": [
+    "\uaa13\uaa23\uaa06\uaa2f\uaa31\uaa43"
+  ],
+  "bara": [
+    "\uaa1d\uaa23",
+    "\uaa1d\uaa23\uaa29"
+  ],
+  "tada": [
+    "\uaa13\uaa15",
+    "\uaa13\uaa15\uaa29"
+  ],
+  "tung": [
+    "\uaa13\uaa2d\uaa42"
+  ],
+  "basak ": [
+    "\uaa1d\uaa27\uaa40"
+  ],
+  "raong": [
+    "\uaa23\uaa2f\uaa31\uaa43"
+  ],
+  "canuw": [
+    "\uaa0c\uaa17\uaa2d\uaa25"
+  ],
+  "tacei": [
+    "\uaa13\uaa0c\uaa2c"
+  ],
+  "ca-ndi\u00e9ng": [
+    "\uaa0c\uaa19\uaa33\uaa2f\uaa2e\uaa42",
+    "\uaa0c\uaa19\uaa33\uaa2f\uaa2e\uaa43"
+  ],
+  "pha": [
+    "\uaa1c",
+    "\uaa1c\uaa29"
+  ],
+  "ta-uk": [
+    "\uaa13\uaa02\uaa40"
+  ],
+  "patih": [
+    "\uaa1a\uaa13\uaa2a\uaa4d"
+  ],
+  "palak": [
+    "\uaa1a\uaa24\uaa40"
+  ],
+  "ka-nduel": [
+    "\uaa06\uaa19\uaa36\uaa2e\uaa4a"
+  ],
+  "paraong": [
+    "\uaa1a\uaa23\uaa2f\uaa31\uaa43"
+  ],
+  "pah": [
+    "\uaa1a\uaa4d"
+  ],
+  "gal\u00e9h": [
+    "\uaa08\uaa24\uaa2f\uaa2e\uaa4d"
+  ],
+  "ca-mbo": [
+    "\uaa0c\uaa21\uaa2f"
+  ],
+  "cambo": [
+    "\uaa0c\uaa21\uaa2f"
+  ],
+  "cagam": [
+    "\uaa0c\uaa08\uaa4c"
+  ],
+  "cakaong": [
+    "\uaa0c\uaa06\uaa2f\uaa31\uaa43"
+  ],
+  "aer": [
+    "\uaa00\uaa2e\uaa49"
+  ],
+  "ka-puak": [
+    "\uaa06\uaa1a\uaa36\uaa40"
+  ],
+  "kapuak": [
+    "\uaa06\uaa1a\uaa36\uaa40"
+  ],
+  "njem": [
+    "\uaa12\uaa2e\uaa4c"
+  ],
+  "han": [
+    "\uaa28\uaa46"
+  ],
+  "aki\u00e9ng": [
+    "\uaa00\uaa06\uaa33\uaa2f\uaa2e\uaa43"
+  ],
+  "yam": [
+    "\uaa22\uaa4c"
+  ],
+  "dak": [
+    "\uaa15\uaa40"
+  ],
+  "pur": [
+    "\uaa1a\uaa2d\uaa49"
+  ],
+  "pai": [
+    "\uaa1a\uaa30"
+  ],
+  "esan": [
+    "\uaa03\uaa26\uaa46"
+  ],
+  "nairati": [
+    "\uaa17\uaa30\uaa23\uaa13\uaa2a"
+  ],
+  "bayep": [
+    "\uaa1d\uaa22\uaa2e\uaa47"
+  ],
+  "kau": [
+    "\uaa06\uaa2e\uaa2d"
+  ],
+  "dahlak": [
+    "\uaa15\uaa28\uaa35\uaa40"
+  ],
+  "drei": [
+    "\uaa15\uaa34\uaa2c"
+  ],
+  "kami": [
+    "\uaa06\uaa1f\uaa2a",
+    "\uaa06\uaa1f\uaa2b"
+  ],
+  "halun": [
+    "\uaa28\uaa24\uaa2d\uaa46"
+  ],
+  "klaong": [
+    "\uaa06\uaa35\uaa2f\uaa31\uaa43"
+  ],
+  "khaol": [
+    "\uaa07\uaa2f\uaa31\uaa4a"
+  ],
+  "panaok": [
+    "\uaa1a\uaa17\uaa2f\uaa31\uaa40"
+  ],
+  "tapuer": [
+    "\uaa13\uaa1a\uaa36\uaa2e\uaa49"
+  ],
+  "ni": [
+    "\uaa17\uaa2a",
+    "\uaa17\uaa2b"
+  ],
+  "bini": [
+    "\uaa1d\uaa2a\uaa17\uaa2a",
+    "\uaa1d\uaa2a\uaa17\uaa2b"
+  ],
+  "bani": [
+    "\uaa1d\uaa17\uaa2a",
+    "\uaa1d\uaa17\uaa2b"
+  ],
+  "nan": [
+    "\uaa17\uaa46",
+    "\uaa18\uaa46"
+  ],
+  "po": [
+    "\uaa1b\uaa2f\uaa2e",
+    "\uaa1b\uaa2f\uaa43"
+  ],
+  "bi-ndi": [
+    "\uaa1d\uaa2a\uaa19\uaa2a",
+    "\uaa1d\uaa2a\uaa19\uaa2b"
+  ],
+  "bi-uh": [
+    "\uaa1d\uaa2a\uaa00\uaa2d\uaa4d",
+    "\uaa1d\uaa2a\uaa02\uaa4d"
+  ],
+  "bia": [
+    "\uaa1d\uaa33",
+    "\uaa1d\uaa33\uaa29"
+  ],
+  "bila": [
+    "\uaa1d\uaa2a\uaa24",
+    "\uaa1d\uaa2a\uaa24\uaa29"
+  ],
+  "bala": [
+    "\uaa1d\uaa24",
+    "\uaa1d\uaa24\uaa29"
+  ],
+  "bingi": [
+    "\uaa1d\uaa2a\uaa0a\uaa2a",
+    "\uaa1d\uaa2a\uaa0a\uaa2b"
+  ],
+  "bangi": [
+    "\uaa1d\uaa0a\uaa2a",
+    "\uaa1d\uaa0a\uaa2b"
+  ],
+  "bira": [
+    "\uaa1d\uaa2a\uaa23",
+    "\uaa1d\uaa2a\uaa23\uaa29"
+  ],
+  "gha": [
+    "\uaa09",
+    "\uaa09\uaa29"
+  ],
+  "caki": [
+    "\uaa0c\uaa06\uaa2a",
+    "\uaa0c\uaa06\uaa2b"
+  ],
+  "sakawi": [
+    "\uaa26\uaa06\uaa25\uaa2a",
+    "\uaa26\uaa06\uaa25\uaa2b",
+    "\uaa26\uaa29\uaa06\uaa25\uaa2b"
+  ],
+  "sali": [
+    "\uaa26\uaa24\uaa2a",
+    "\uaa26\uaa24\uaa2b"
+  ],
+  "sini": [
+    "\uaa27\uaa2a\uaa17\uaa2a",
+    "\uaa27\uaa2a\uaa17\uaa2b"
+  ],
+  "sri": [
+    "\uaa26\uaa34\uaa2a",
+    "\uaa26\uaa34\uaa2b"
+  ],
+  "ini": [
+    "\uaa01\uaa17\uaa2a",
+    "\uaa01\uaa17\uaa2b"
+  ]
 }
