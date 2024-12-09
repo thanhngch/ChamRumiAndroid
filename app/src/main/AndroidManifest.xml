@@ -19,7 +19,7 @@
         <service
             android:name="org.kauthara.chamrumi.ChamKeyboard"
             android:exported="true"
-            android:label="Cham Rumi"
+            android:label="Champa"
             android:permission="android.permission.BIND_INPUT_METHOD">
             <meta-data android:name="android.view.im" android:resource="@xml/method"/>
             <intent-filter>
